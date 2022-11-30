@@ -1,0 +1,825 @@
+{
+  "common": {
+    "addNewItem": "",
+    "addNewGroup": "",
+    "name": "Tên",
+    "code": "",
+    "altName": "Tên thay thế",
+    "id": "",
+    "status": {
+      "status": ""
+    },
+    "cash": {
+      "group": {
+        "addNew": ""
+      },
+      "item": {
+        "addNew": ""
+      }
+    },
+    "item(s)": "",
+    "employee": {
+      "group": {
+        "addNew": ""
+      },
+      "item": {
+        "addNew": ""
+      }
+    },
+    "tab": {
+      "modifiers": ""
+    },
+    "modischeme": {
+      "item": {
+        "addNew": ""
+      },
+      "group": {
+        "addNew": ""
+      }
+    },
+    "modiScheme": {
+      "addNew": ""
+    },
+    "addLineMode": {
+      "separateLineForEachOption": ""
+    },
+    "combo": {
+      "group": {
+        "addNew": ""
+      },
+      "item": {
+        "addNew": ""
+      }
+    },
+    "comboscheme": {
+      "group": {
+        "addNew": ""
+      },
+      "item": {
+        "addNew": ""
+      }
+    },
+    "modifier": {
+      "group": {
+        "addNew": "Thêm nhóm tùy chọn"
+      },
+      "item": {
+        "addNew": "Thêm tùy chọn"
+      }
+    },
+    "openPrices": "",
+    "field": {
+      "isDefaultTaxDishType": "Mặc định"
+    }
+  },
+  "modifier": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "item": {
+      "openPrices": "",
+      "maxInOneDish": "",
+      "maxInOneDishCount": "",
+      "startingSale": "",
+      "endingSale": "",
+      "detail": "Các thuộc tính",
+      "rightLevel": ""
+    },
+    "group": {
+      "title": "",
+      "upLimit": ""
+    }
+  },
+  "menuItem": {
+    "delete": {
+      "success": ""
+    },
+    "menuItems": "",
+    "update": {
+      "success": ""
+    },
+    "menuGroupDetail": "",
+    "create": {
+      "success": ""
+    },
+    "addNewMenuItem": "",
+    "group": {
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      }
+    },
+    "item": {
+      "salesTermsStartSale": "",
+      "salesTermsStopSale": "",
+      "minRestQnt": "",
+      "addNewCombo": "",
+      "detail": "Các thuộc tính",
+      "addNew": "Thêm món ăn",
+      "useRestControl": "",
+      "useConfirmQnt": "",
+      "useStartSale": "",
+      "useStopSale": "",
+      "tooltip": {
+        "dish": ""
+      }
+    },
+    "add": {
+      "openPrices": ""
+    },
+    "all": "",
+    "tooltip": {
+      "modischeme": ""
+    }
+  },
+  "menuitem": {
+    "detail": "",
+    "create": {
+      "success": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    }
+  },
+  "menuitems": {
+    "update": {
+      "success": ""
+    }
+  },
+  "prices": {
+    "title": "",
+    "openPrice": ""
+  },
+  "price": {
+    "prices": "",
+    "openPrice": "",
+    "01": "",
+    "02": ""
+  },
+  "currency": {
+    "detail": "Các thuộc tính",
+    "currencies": "Tiền tệ"
+  },
+  "currencyType": {
+    "detail": "Các thuộc tính",
+    "currencyTypes": "Nhóm tiền tệ"
+  },
+  "rateClass": {
+    "rateClasses": "Tỉ giá",
+    "detail": "",
+    "rate": "Tỉ giá"
+  },
+  "classification": {
+    "item": {
+      "menuItems": "",
+      "classificationsGroups": "",
+      "add": {
+        "openPrices": ""
+      },
+      "openPrices": "",
+      "confirmQuality": "",
+      "startingSale": "",
+      "endingSale": "",
+      "minimalRestVal": "",
+      "rightLevel": ""
+    },
+    "group": {
+      "tooltip": {
+        "description": "Mô tả của phân loại"
+      }
+    }
+  },
+  "discountDetail": {
+    "tooltip": {
+      "discount": "",
+      "region": ""
+    },
+    "selectDiscount": "",
+    "selectRegion": ""
+  },
+  "discount": {
+    "item": {
+      "discount": "",
+      "mode": {
+        "bold": "\u001b[1m\u001b[22m",
+        "strip": "",
+        "stripColors": "",
+        "trap": "",
+        "zalgo": "",
+        "zebra": "",
+        "rainbow": "",
+        "random": "",
+        "america": "",
+        "reset": "\u001b[0m\u001b[0m",
+        "dim": "\u001b[2m\u001b[22m",
+        "italic": "\u001b[3m\u001b[23m",
+        "underline": "\u001b[4m\u001b[24m",
+        "inverse": "\u001b[7m\u001b[27m",
+        "hidden": "\u001b[8m\u001b[28m",
+        "strikethrough": "\u001b[9m\u001b[29m",
+        "black": "\u001b[30m\u001b[39m",
+        "red": "\u001b[31m\u001b[39m",
+        "green": "\u001b[32m\u001b[39m",
+        "yellow": "\u001b[33m\u001b[39m",
+        "blue": "\u001b[34m\u001b[39m",
+        "magenta": "\u001b[35m\u001b[39m",
+        "cyan": "\u001b[36m\u001b[39m",
+        "white": "\u001b[37m\u001b[39m",
+        "gray": "\u001b[90m\u001b[39m",
+        "grey": "\u001b[90m\u001b[39m",
+        "brightRed": "\u001b[91m\u001b[39m",
+        "brightGreen": "\u001b[92m\u001b[39m",
+        "brightYellow": "\u001b[93m\u001b[39m",
+        "brightBlue": "\u001b[94m\u001b[39m",
+        "brightMagenta": "\u001b[95m\u001b[39m",
+        "brightCyan": "\u001b[96m\u001b[39m",
+        "brightWhite": "\u001b[97m\u001b[39m",
+        "bgBlack": "\u001b[40m\u001b[49m",
+        "bgRed": "\u001b[41m\u001b[49m",
+        "bgGreen": "\u001b[42m\u001b[49m",
+        "bgYellow": "\u001b[43m\u001b[49m",
+        "bgBlue": "\u001b[44m\u001b[49m",
+        "bgMagenta": "\u001b[45m\u001b[49m",
+        "bgCyan": "\u001b[46m\u001b[49m",
+        "bgWhite": "\u001b[47m\u001b[49m",
+        "bgGray": "\u001b[100m\u001b[49m",
+        "bgGrey": "\u001b[100m\u001b[49m",
+        "bgBrightRed": "\u001b[101m\u001b[49m",
+        "bgBrightGreen": "\u001b[102m\u001b[49m",
+        "bgBrightYellow": "\u001b[103m\u001b[49m",
+        "bgBrightBlue": "\u001b[104m\u001b[49m",
+        "bgBrightMagenta": "\u001b[105m\u001b[49m",
+        "bgBrightCyan": "\u001b[106m\u001b[49m",
+        "bgBrightWhite": "\u001b[107m\u001b[49m",
+        "blackBG": "\u001b[40m\u001b[49m",
+        "redBG": "\u001b[41m\u001b[49m",
+        "greenBG": "\u001b[42m\u001b[49m",
+        "yellowBG": "\u001b[43m\u001b[49m",
+        "blueBG": "\u001b[44m\u001b[49m",
+        "magentaBG": "\u001b[45m\u001b[49m",
+        "cyanBG": "\u001b[46m\u001b[49m",
+        "whiteBG": "\u001b[47m\u001b[49m",
+        "mode": ""
+      },
+      "countType": {
+        "bold": "\u001b[1m\u001b[22m",
+        "strip": "",
+        "stripColors": "",
+        "trap": "",
+        "zalgo": "",
+        "zebra": "",
+        "rainbow": "",
+        "random": "",
+        "america": "",
+        "reset": "\u001b[0m\u001b[0m",
+        "dim": "\u001b[2m\u001b[22m",
+        "italic": "\u001b[3m\u001b[23m",
+        "underline": "\u001b[4m\u001b[24m",
+        "inverse": "\u001b[7m\u001b[27m",
+        "hidden": "\u001b[8m\u001b[28m",
+        "strikethrough": "\u001b[9m\u001b[29m",
+        "black": "\u001b[30m\u001b[39m",
+        "red": "\u001b[31m\u001b[39m",
+        "green": "\u001b[32m\u001b[39m",
+        "yellow": "\u001b[33m\u001b[39m",
+        "blue": "\u001b[34m\u001b[39m",
+        "magenta": "\u001b[35m\u001b[39m",
+        "cyan": "\u001b[36m\u001b[39m",
+        "white": "\u001b[37m\u001b[39m",
+        "gray": "\u001b[90m\u001b[39m",
+        "grey": "\u001b[90m\u001b[39m",
+        "brightRed": "\u001b[91m\u001b[39m",
+        "brightGreen": "\u001b[92m\u001b[39m",
+        "brightYellow": "\u001b[93m\u001b[39m",
+        "brightBlue": "\u001b[94m\u001b[39m",
+        "brightMagenta": "\u001b[95m\u001b[39m",
+        "brightCyan": "\u001b[96m\u001b[39m",
+        "brightWhite": "\u001b[97m\u001b[39m",
+        "bgBlack": "\u001b[40m\u001b[49m",
+        "bgRed": "\u001b[41m\u001b[49m",
+        "bgGreen": "\u001b[42m\u001b[49m",
+        "bgYellow": "\u001b[43m\u001b[49m",
+        "bgBlue": "\u001b[44m\u001b[49m",
+        "bgMagenta": "\u001b[45m\u001b[49m",
+        "bgCyan": "\u001b[46m\u001b[49m",
+        "bgWhite": "\u001b[47m\u001b[49m",
+        "bgGray": "\u001b[100m\u001b[49m",
+        "bgGrey": "\u001b[100m\u001b[49m",
+        "bgBrightRed": "\u001b[101m\u001b[49m",
+        "bgBrightGreen": "\u001b[102m\u001b[49m",
+        "bgBrightYellow": "\u001b[103m\u001b[49m",
+        "bgBrightBlue": "\u001b[104m\u001b[49m",
+        "bgBrightMagenta": "\u001b[105m\u001b[49m",
+        "bgBrightCyan": "\u001b[106m\u001b[49m",
+        "bgBrightWhite": "\u001b[107m\u001b[49m",
+        "blackBG": "\u001b[40m\u001b[49m",
+        "redBG": "\u001b[41m\u001b[49m",
+        "greenBG": "\u001b[42m\u001b[49m",
+        "yellowBG": "\u001b[43m\u001b[49m",
+        "blueBG": "\u001b[44m\u001b[49m",
+        "magentaBG": "\u001b[45m\u001b[49m",
+        "cyanBG": "\u001b[46m\u001b[49m",
+        "whiteBG": "\u001b[47m\u001b[49m"
+      },
+      "roundRule": {
+        "0": "",
+        "1": "",
+        "bold": "\u001b[1m\u001b[22m",
+        "strip": "",
+        "stripColors": "",
+        "trap": "",
+        "zalgo": "",
+        "zebra": "",
+        "rainbow": "",
+        "random": "",
+        "america": "",
+        "reset": "\u001b[0m\u001b[0m",
+        "dim": "\u001b[2m\u001b[22m",
+        "italic": "\u001b[3m\u001b[23m",
+        "underline": "\u001b[4m\u001b[24m",
+        "inverse": "\u001b[7m\u001b[27m",
+        "hidden": "\u001b[8m\u001b[28m",
+        "strikethrough": "\u001b[9m\u001b[29m",
+        "black": "\u001b[30m\u001b[39m",
+        "red": "\u001b[31m\u001b[39m",
+        "green": "\u001b[32m\u001b[39m",
+        "yellow": "\u001b[33m\u001b[39m",
+        "blue": "\u001b[34m\u001b[39m",
+        "magenta": "\u001b[35m\u001b[39m",
+        "cyan": "\u001b[36m\u001b[39m",
+        "white": "\u001b[37m\u001b[39m",
+        "gray": "\u001b[90m\u001b[39m",
+        "grey": "\u001b[90m\u001b[39m",
+        "brightRed": "\u001b[91m\u001b[39m",
+        "brightGreen": "\u001b[92m\u001b[39m",
+        "brightYellow": "\u001b[93m\u001b[39m",
+        "brightBlue": "\u001b[94m\u001b[39m",
+        "brightMagenta": "\u001b[95m\u001b[39m",
+        "brightCyan": "\u001b[96m\u001b[39m",
+        "brightWhite": "\u001b[97m\u001b[39m",
+        "bgBlack": "\u001b[40m\u001b[49m",
+        "bgRed": "\u001b[41m\u001b[49m",
+        "bgGreen": "\u001b[42m\u001b[49m",
+        "bgYellow": "\u001b[43m\u001b[49m",
+        "bgBlue": "\u001b[44m\u001b[49m",
+        "bgMagenta": "\u001b[45m\u001b[49m",
+        "bgCyan": "\u001b[46m\u001b[49m",
+        "bgWhite": "\u001b[47m\u001b[49m",
+        "bgGray": "\u001b[100m\u001b[49m",
+        "bgGrey": "\u001b[100m\u001b[49m",
+        "bgBrightRed": "\u001b[101m\u001b[49m",
+        "bgBrightGreen": "\u001b[102m\u001b[49m",
+        "bgBrightYellow": "\u001b[103m\u001b[49m",
+        "bgBrightBlue": "\u001b[104m\u001b[49m",
+        "bgBrightMagenta": "\u001b[105m\u001b[49m",
+        "bgBrightCyan": "\u001b[106m\u001b[49m",
+        "bgBrightWhite": "\u001b[107m\u001b[49m",
+        "blackBG": "\u001b[40m\u001b[49m",
+        "redBG": "\u001b[41m\u001b[49m",
+        "greenBG": "\u001b[42m\u001b[49m",
+        "yellowBG": "\u001b[43m\u001b[49m",
+        "blueBG": "\u001b[44m\u001b[49m",
+        "magentaBG": "\u001b[45m\u001b[49m",
+        "cyanBG": "\u001b[46m\u001b[49m",
+        "whiteBG": "\u001b[47m\u001b[49m"
+      },
+      "tooltip": {
+        "mode": "",
+        "maxAmount": "",
+        "maxPercent": ""
+      },
+      "discountObjectType": {
+        "down": "",
+        "paymentDown": "",
+        "up": "",
+        "unallocatedUp": "",
+        "distributedMarkup": ""
+      },
+      "detail": "Các thuộc tính",
+      "addNew": "",
+      "useMaxAmount": "",
+      "useMaxPercent": "",
+      "useStartSale": "",
+      "useStopSale": ""
+    },
+    "detail": {
+      "discount": "",
+      "tooltip": {
+        "discount": "",
+        "dPercent": "",
+        "franchise": "",
+        "fromAmount": "",
+        "fromGuest": "",
+        "toGuest": ""
+      },
+      "selectDiscount": "",
+      "selectDPercent": "",
+      "selectBonusPercentVal": "",
+      "dPercent": "",
+      "percentOrAmount": "",
+      "discountDetails": "",
+      "franchise": "",
+      "selectFranchise": "",
+      "discountDetail": "",
+      "useFromAmount": "",
+      "useFromGuest": "",
+      "useToGuest": ""
+    },
+    "group": {
+      "allDescription": ""
+    },
+    "all": ""
+  },
+  "menu": {
+    "item": {
+      "addLineMode": "",
+      "tooltip": {
+        "addLineMode": "",
+        "portionName": "",
+        "altPortion": "",
+        "portionWeight": "",
+        "qntDecDigits": ""
+      },
+      "selectAddLineMode": "",
+      "portionName": "",
+      "altPortion": "",
+      "portionWeight": "",
+      "qntDecDigits": "",
+      "priceMode": ""
+    },
+    "group": {
+      "allDescription": ""
+    }
+  },
+  "comboscheme": {
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "addNew": "",
+    "detail": "",
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "comboschemes": "",
+      "addNew": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "group": {
+      "addNew": ""
+    }
+  },
+  "comboScheme": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "autoOpen": "",
+      "comboschemes": ""
+    },
+    "comboschemes": "",
+    "autoOpen": "",
+    "group": {
+      "addNew": ""
+    },
+    "upperLimit": "",
+    "freeCount": "",
+    "sHQuantity": "",
+    "useUpperLimit": "",
+    "detail": {
+      "bold": "\u001b[1m\u001b[22m",
+      "strip": "",
+      "stripColors": "",
+      "trap": "",
+      "zalgo": "",
+      "zebra": "",
+      "rainbow": "",
+      "random": "",
+      "america": "",
+      "reset": "\u001b[0m\u001b[0m",
+      "dim": "\u001b[2m\u001b[22m",
+      "italic": "\u001b[3m\u001b[23m",
+      "underline": "\u001b[4m\u001b[24m",
+      "inverse": "\u001b[7m\u001b[27m",
+      "hidden": "\u001b[8m\u001b[28m",
+      "strikethrough": "\u001b[9m\u001b[29m",
+      "black": "\u001b[30m\u001b[39m",
+      "red": "\u001b[31m\u001b[39m",
+      "green": "\u001b[32m\u001b[39m",
+      "yellow": "\u001b[33m\u001b[39m",
+      "blue": "\u001b[34m\u001b[39m",
+      "magenta": "\u001b[35m\u001b[39m",
+      "cyan": "\u001b[36m\u001b[39m",
+      "white": "\u001b[37m\u001b[39m",
+      "gray": "\u001b[90m\u001b[39m",
+      "grey": "\u001b[90m\u001b[39m",
+      "brightRed": "\u001b[91m\u001b[39m",
+      "brightGreen": "\u001b[92m\u001b[39m",
+      "brightYellow": "\u001b[93m\u001b[39m",
+      "brightBlue": "\u001b[94m\u001b[39m",
+      "brightMagenta": "\u001b[95m\u001b[39m",
+      "brightCyan": "\u001b[96m\u001b[39m",
+      "brightWhite": "\u001b[97m\u001b[39m",
+      "bgBlack": "\u001b[40m\u001b[49m",
+      "bgRed": "\u001b[41m\u001b[49m",
+      "bgGreen": "\u001b[42m\u001b[49m",
+      "bgYellow": "\u001b[43m\u001b[49m",
+      "bgBlue": "\u001b[44m\u001b[49m",
+      "bgMagenta": "\u001b[45m\u001b[49m",
+      "bgCyan": "\u001b[46m\u001b[49m",
+      "bgWhite": "\u001b[47m\u001b[49m",
+      "bgGray": "\u001b[100m\u001b[49m",
+      "bgGrey": "\u001b[100m\u001b[49m",
+      "bgBrightRed": "\u001b[101m\u001b[49m",
+      "bgBrightGreen": "\u001b[102m\u001b[49m",
+      "bgBrightYellow": "\u001b[103m\u001b[49m",
+      "bgBrightBlue": "\u001b[104m\u001b[49m",
+      "bgBrightMagenta": "\u001b[105m\u001b[49m",
+      "bgBrightCyan": "\u001b[106m\u001b[49m",
+      "bgBrightWhite": "\u001b[107m\u001b[49m",
+      "blackBG": "\u001b[40m\u001b[49m",
+      "redBG": "\u001b[41m\u001b[49m",
+      "greenBG": "\u001b[42m\u001b[49m",
+      "yellowBG": "\u001b[43m\u001b[49m",
+      "blueBG": "\u001b[44m\u001b[49m",
+      "magentaBG": "\u001b[45m\u001b[49m",
+      "cyanBG": "\u001b[46m\u001b[49m",
+      "whiteBG": "\u001b[47m\u001b[49m",
+      "comboGroups": "",
+      "tooltip": {
+        "sortNum": "",
+        "upLimit": "",
+        "downLimit": ""
+      },
+      "sortNum": ""
+    },
+    "usedownLimit": "",
+    "useUpLimit": "",
+    "useDownLimit": ""
+  },
+  "modischeme": {
+    "item": {
+      "modischemes": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      }
+    },
+    "delete": {
+      "success": ""
+    },
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "addNew": "",
+    "detail": "",
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "group": {
+      "addNew": "",
+      "allDescription": ""
+    }
+  },
+  "modiScheme": {
+    "item": {
+      "freeCount": "",
+      "sHQuantity": "",
+      "usePowerLimit": "",
+      "powerLimit": "",
+      "useUpperLimit": "",
+      "upperLimit": ""
+    },
+    "group": {
+      "addNew": ""
+    },
+    "powerLimit": "",
+    "upperLimit": "",
+    "usePowerLimit": "",
+    "detail": {
+      "bold": "\u001b[1m\u001b[22m",
+      "strip": "",
+      "stripColors": "",
+      "trap": "",
+      "zalgo": "",
+      "zebra": "",
+      "rainbow": "",
+      "random": "",
+      "america": "",
+      "reset": "\u001b[0m\u001b[0m",
+      "dim": "\u001b[2m\u001b[22m",
+      "italic": "\u001b[3m\u001b[23m",
+      "underline": "\u001b[4m\u001b[24m",
+      "inverse": "\u001b[7m\u001b[27m",
+      "hidden": "\u001b[8m\u001b[28m",
+      "strikethrough": "\u001b[9m\u001b[29m",
+      "black": "\u001b[30m\u001b[39m",
+      "red": "\u001b[31m\u001b[39m",
+      "green": "\u001b[32m\u001b[39m",
+      "yellow": "\u001b[33m\u001b[39m",
+      "blue": "\u001b[34m\u001b[39m",
+      "magenta": "\u001b[35m\u001b[39m",
+      "cyan": "\u001b[36m\u001b[39m",
+      "white": "\u001b[37m\u001b[39m",
+      "gray": "\u001b[90m\u001b[39m",
+      "grey": "\u001b[90m\u001b[39m",
+      "brightRed": "\u001b[91m\u001b[39m",
+      "brightGreen": "\u001b[92m\u001b[39m",
+      "brightYellow": "\u001b[93m\u001b[39m",
+      "brightBlue": "\u001b[94m\u001b[39m",
+      "brightMagenta": "\u001b[95m\u001b[39m",
+      "brightCyan": "\u001b[96m\u001b[39m",
+      "brightWhite": "\u001b[97m\u001b[39m",
+      "bgBlack": "\u001b[40m\u001b[49m",
+      "bgRed": "\u001b[41m\u001b[49m",
+      "bgGreen": "\u001b[42m\u001b[49m",
+      "bgYellow": "\u001b[43m\u001b[49m",
+      "bgBlue": "\u001b[44m\u001b[49m",
+      "bgMagenta": "\u001b[45m\u001b[49m",
+      "bgCyan": "\u001b[46m\u001b[49m",
+      "bgWhite": "\u001b[47m\u001b[49m",
+      "bgGray": "\u001b[100m\u001b[49m",
+      "bgGrey": "\u001b[100m\u001b[49m",
+      "bgBrightRed": "\u001b[101m\u001b[49m",
+      "bgBrightGreen": "\u001b[102m\u001b[49m",
+      "bgBrightYellow": "\u001b[103m\u001b[49m",
+      "bgBrightBlue": "\u001b[104m\u001b[49m",
+      "bgBrightMagenta": "\u001b[105m\u001b[49m",
+      "bgBrightCyan": "\u001b[106m\u001b[49m",
+      "bgBrightWhite": "\u001b[107m\u001b[49m",
+      "blackBG": "\u001b[40m\u001b[49m",
+      "redBG": "\u001b[41m\u001b[49m",
+      "greenBG": "\u001b[42m\u001b[49m",
+      "yellowBG": "\u001b[43m\u001b[49m",
+      "blueBG": "\u001b[44m\u001b[49m",
+      "magentaBG": "\u001b[45m\u001b[49m",
+      "cyanBG": "\u001b[46m\u001b[49m",
+      "whiteBG": "\u001b[47m\u001b[49m",
+      "title": "",
+      "modifierGroups": "",
+      "tooltip": {
+        "sortNum": "",
+        "upLimit": "",
+        "downLimit": ""
+      },
+      "sortNum": ""
+    },
+    "freeCount": "",
+    "sHQuantity": "",
+    "useUpperLimit": "",
+    "usedownLimit": "",
+    "useUpLimit": "",
+    "useDownLimit": ""
+  },
+  "commboScheme": {
+    "freeCount": "",
+    "sHQuantity": "",
+    "useDownLimit": "",
+    "downLimit": "",
+    "useUpperLimit": "",
+    "upperLimit": ""
+  },
+  "comboScheme.freeCount": "",
+  "comboScheme.sHQuantity": "",
+  "comboScheme.useDownLimit": "",
+  "comboScheme.downLimit": "",
+  "comboScheme.useUpperLimit": "",
+  "comboScheme.upperLimit": "",
+  "combo": {
+    "detail": {
+      "openPrices": ""
+    },
+    "item": {
+      "detail": "",
+      "useStartSale": "",
+      "useStopSale": "",
+      "rightLevel": "",
+      "selectDish": ""
+    },
+    "group": {
+      "title": ""
+    }
+  },
+  "taxDishType": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "taxDishTypes": "",
+    "detail": "",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    }
+  },
+  "filters": {
+    "search": "",
+    "or": ""
+  },
+  "chain": {
+    "title": "",
+    "card": {
+      "percent": {
+        "type": {
+          "receipt": "",
+          "guest": "",
+          "discount": "",
+          "totalAmount": ""
+        },
+        "period": {
+          "current": {
+            "title": ""
+          },
+          "previous": {
+            "title": ""
+          }
+        }
+      }
+    },
+    "filter": {
+      "time": {
+        "today": "",
+        "thisWeek": "",
+        "thisMonth": "",
+        "thisYear": ""
+      }
+    }
+  },
+  "dashboard": {
+    "report": {
+      "column": {
+        "date": "",
+        "receiptCount": "",
+        "amount": "",
+        "discount": "",
+        "tax": "",
+        "total": ""
+      }
+    }
+  }
+}

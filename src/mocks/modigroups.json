@@ -1,0 +1,278 @@
+{
+  "success": true,
+  "data": {
+    "result": [
+      {
+        "id": 0,
+        "name": "Tất cả",
+        "code": "0",
+        "status": 1,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": ""
+      },
+      {
+        "id": 2000,
+        "name": "RUSSIA: EGAIS",
+        "code": "2000",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 2,
+        "guid": "{40321792-B508-4F82-8A4D-64CEFEB9B5A9}"
+      },
+      {
+        "id": 2001,
+        "name": "EGAIS EAN13",
+        "code": "2001",
+        "status": 3,
+        "mainParentId": 2000,
+        "modiGroupType": 0,
+        "guid": "{595D2F1C-A489-46AF-BDA6-93E6291B7720}"
+      },
+      {
+        "id": 2002,
+        "name": "PDF417",
+        "code": "2002",
+        "status": 3,
+        "mainParentId": 2000,
+        "modiGroupType": 0,
+        "guid": "{329872AB-B32E-45C7-AA49-09483271A6DC}"
+      },
+      {
+        "id": 3000,
+        "name": "RUSSIA: EGAIS",
+        "code": "3000",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 2,
+        "guid": "{0D73A1DB-7AE6-47DA-891D-EB232364B965}"
+      },
+      {
+        "id": 1000557,
+        "name": "For Drink",
+        "code": "55",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{44317D65-0F69-4778-8F0E-F89A9C95E3B7}"
+      },
+      {
+        "id": 1000711,
+        "name": "For Food",
+        "code": "57",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{CC516AAE-8E50-44D0-B205-0472C15C6826}"
+      },
+      {
+        "id": 1000722,
+        "name": "Input",
+        "code": "60",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{9B0E8AEC-AC16-4AA2-9C6A-08CA047F57B4}"
+      },
+      {
+        "id": 1001326,
+        "name": "Thịt rừng",
+        "code": "70",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{CB631062-E010-424A-BFAF-103C38AF65EA}"
+      },
+      {
+        "id": 1002329,
+        "name": "Common",
+        "code": "223",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{9CF6B703-1B04-44A7-812F-E05F0E94FAB2}"
+      },
+      {
+        "id": 1002465,
+        "name": "Add on",
+        "code": "231",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{8310CA39-8094-4553-8AB2-0D9B2C3D02FB}"
+      },
+      {
+        "id": 1002469,
+        "name": "Soup +",
+        "code": "233",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{B2C17107-FC10-4C20-8B56-88810FFC0C22}"
+      },
+      {
+        "id": 1002487,
+        "name": "Modi group for test",
+        "code": "239",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{826B8AEA-F0DC-4C51-85BE-01A398909D45}"
+      },
+      {
+        "id": 1002768,
+        "name": "KIOSK",
+        "code": "252",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 2,
+        "guid": "{D55C06E3-A229-44E8-A42B-99BB6BA53B50}"
+      },
+      {
+        "id": 1002769,
+        "name": "Size Drink",
+        "code": "253",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{1D7F49B1-1924-4579-906C-2F9AEEE3A236}"
+      },
+      {
+        "id": 1002802,
+        "name": "Extra",
+        "code": "259",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{8F68DD19-85FF-4B82-8F19-BE2252671B68}"
+      },
+      {
+        "id": 1002830,
+        "name": "Thức Uống",
+        "code": "263",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{984F4011-D6C7-4A33-B961-63FFB7EFB2D3}"
+      },
+      {
+        "id": 1002923,
+        "name": "Up Size",
+        "code": "272",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{E1B6EA46-EF82-4E37-B4C2-B0E22841707C}"
+      },
+      {
+        "id": 1002952,
+        "name": "Món Chính",
+        "code": "273",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{1681A7BE-20FA-40C4-9EAD-D483C03C90C7}"
+      },
+      {
+        "id": 1002975,
+        "name": "Cook 2",
+        "code": "278",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{A382BB36-2014-4FB1-9958-17FCD2FC2DF6}"
+      },
+      {
+        "id": 1003005,
+        "name": "Súp",
+        "code": "282",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{28A597CF-49A1-4375-AAF7-9BA8F42426A1}"
+      },
+      {
+        "id": 1003153,
+        "name": "VP8",
+        "code": "303",
+        "status": 3,
+        "mainParentId": 1002768,
+        "modiGroupType": 0,
+        "guid": "{81611B82-955D-48FB-8E04-586202C90FE3}"
+      },
+      {
+        "id": 1003209,
+        "name": "Desert",
+        "code": "309",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 0,
+        "guid": "{33FE9847-4A6D-49B9-A295-C46580C7E60E}"
+      },
+      {
+        "id": 1003481,
+        "name": "Rau/Salad",
+        "code": "333",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{7352E85E-120E-4F22-B8C1-C08582EBF2D1}"
+      },
+      {
+        "id": 1003482,
+        "name": "Salad",
+        "code": "334",
+        "status": 3,
+        "mainParentId": 0,
+        "modiGroupType": 2,
+        "guid": "{6FB33BB8-7531-400E-A9F6-20A34242D79F}"
+      },
+      {
+        "id": 1003483,
+        "name": "Sốt/Sauce",
+        "code": "335",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{156BB5F9-24C1-40EE-8E99-3E92D77475B2}"
+      },
+      {
+        "id": 1003485,
+        "name": "Toppings",
+        "code": "337",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{0E6328E9-AAAE-4C4D-B1B1-1C9721ED846F}"
+      },
+      {
+        "id": 1003486,
+        "name": "Tinh Bột/Carb",
+        "code": "338",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{6BDB7408-9E5B-4DB2-AA38-E587FF0C93C9}"
+      },
+      {
+        "id": 1003487,
+        "name": "Đạm/Protein",
+        "code": "339",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{274214A8-C99B-4225-B6E6-061CF299684F}"
+      },
+      {
+        "id": 1003488,
+        "name": "Phô Mai/Cheese",
+        "code": "340",
+        "status": 3,
+        "mainParentId": 1003482,
+        "modiGroupType": 0,
+        "guid": "{C4174BE8-6277-4F47-AEBC-9291EE64EDFE}"
+      }
+    ],
+    "total": 42
+  }
+}

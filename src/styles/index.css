@@ -1,0 +1,83 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* override Ant Design */
+.ant-btn-lg,
+.ant-input,
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border-radius: 4px;
+}
+
+.ant-input-lg {
+  font-size: 0.875rem;
+}
+
+.ant-input-affix-wrapper-lg {
+  font-size: 0.875rem;
+  /* height: 40px; */
+}
+
+.ant-btn-lg {
+  font-size: 0.875rem;
+}
+
+.ant-form-item-explain-error {
+  font-size: 0.75rem;
+}
+
+.ant-select-dropdown {
+  padding: 0;
+  border-radius: 4px;
+}
+
+.ant-modal-confirm .ant-modal-body {
+  padding: 24px;
+}
+
+/* .ant-message-notice-content {
+  max-width: 26rem;
+} */
+
+/* .ant-message-custom-content {
+  display: flex;
+  text-align: left;
+  gap: 0.5rem;
+} */
+
+.ant-spin-dot-item {
+  background-color: #e6311a;
+}
+
+.ant-form-item-label {
+  font-weight: 500;
+}
+
+.ant-select-selection-placeholder {
+  font-weight: 400;
+  font-size: 0.875rem;
+}
+
+/* remove opacity for parent node into tree select */
+.ant-select-tree
+  .ant-select-tree-treenode-disabled
+  .ant-select-tree-node-content-wrapper {
+  color: rgba(0, 0, 0, 0.8) !important;
+}

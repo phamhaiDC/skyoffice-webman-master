@@ -1,0 +1,821 @@
+{
+  "common": {
+    "addNewItem": "Add new item",
+    "addNewGroup": "Add new group",
+    "name": "Name",
+    "code": "Code",
+    "altName": "Alt name",
+    "id": "Id",
+    "status": {
+      "status": "Status"
+    },
+    "cash": {
+      "group": {
+        "addNew": ""
+      },
+      "item": {
+        "addNew": ""
+      }
+    },
+    "tab": {
+      "modifiers": "Modifiers"
+    },
+    "modischeme": {
+      "item": {
+        "addNew": "Add new modischeme item"
+      },
+      "group": {
+        "addNew": "Add new modischeme"
+      }
+    },
+    "modiScheme": {
+      "addNew": ""
+    },
+    "combo": {
+      "group": {
+        "addNew": "Add new combo group"
+      },
+      "item": {
+        "addNew": "Add new combo"
+      }
+    },
+    "comboscheme": {
+      "group": {
+        "addNew": "Add new combo scheme"
+      },
+      "item": {
+        "addNew": "Add new combo scheme item"
+      }
+    },
+    "modifier": {
+      "group": {
+        "addNew": "Add new modifier group"
+      },
+      "item": {
+        "addNew": "Add new modifier"
+      }
+    },
+    "openPrices": "Open prices",
+    "field": {
+      "isDefaultTaxDishType": "Default",
+      "shift_date": "Date",
+      "check_count": "Receipt count",
+      "discount_sum": "Discount",
+      "services_charge": "Service charge",
+      "tax_sum": "Tax",
+      "amount_before_tax": "Amount",
+      "pay_sum": "Total",
+      "restaurant_id": "Restaurant ID",
+      "guest_count": "Guest count",
+      "price_sum": "Price sum",
+      "restaurant_name": "Restaurant name",
+      "calc_percent": "Calc percent"
+    }
+  },
+  "modifier": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "item": {
+      "openPrices": "Open prices",
+      "maxInOneDish": "Max in one dish",
+      "maxInOneDishCount": "Max in one dish count",
+      "startingSale": "Starting sale",
+      "endingSale": "Ending sale",
+      "detail": "Properties",
+      "rightLevel": "Right level"
+    },
+    "group": {
+      "title": "Modifier groups",
+      "upLimit": "Up limit"
+    }
+  },
+  "menuItem": {
+    "delete": {
+      "success": "Menu item is deleted"
+    },
+    "menuItems": "Menu items",
+    "update": {
+      "success": "Menu item is updated"
+    },
+    "menuGroupDetail": "Menu group detail",
+    "create": {
+      "success": "Menu item is created"
+    },
+    "addNewMenuItem": "Add new dish",
+    "group": {
+      "tooltip": {
+        "name": "Name of menu group",
+        "code": "Code of menu group",
+        "altName": "Alternative of menu group"
+      }
+    },
+    "item": {
+      "salesTermsStartSale": "Sales terms start sale",
+      "salesTermsStopSale": "Sales term stop sale",
+      "minRestQnt": "Min rest qnt",
+      "addNewCombo": "Add new combo",
+      "detail": "Properties",
+      "addNew": "Add new menu item",
+      "tooltip": {
+        "dish": "Dish of menu item "
+      }
+    },
+    "add": {
+      "openPrices": "Open Price"
+    },
+    "all": "List of menu items",
+    "tooltip": {
+      "modischeme": "Modi scheme of menu item"
+    }
+  },
+  "menuitem": {
+    "detail": "",
+    "create": {
+      "success": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    }
+  },
+  "menuitems": {
+    "update": {
+      "success": ""
+    }
+  },
+  "prices": {
+    "title": "Prices",
+    "openPrice": "Open Price"
+  },
+  "price": {
+    "prices": "Prices",
+    "openPrice": "Open price",
+    "01": "Price 01",
+    "02": "Price 02"
+  },
+  "currency": {
+    "detail": "Properties",
+    "currencies": "Currencies"
+  },
+  "currencyType": {
+    "detail": "Properties",
+    "currencyTypes": "Currency types"
+  },
+  "rateClass": {
+    "rateClasses": "Rate classes",
+    "detail": "Rate class detail",
+    "rate": "Rate"
+  },
+  "classification": {
+    "item": {
+      "menuItems": "",
+      "classificationsGroups": "",
+      "add": {
+        "openPrices": "Add open prices"
+      },
+      "openPrices": "Open prices",
+      "confirmQuality": "Confirm quality",
+      "startingSale": "Staring sale",
+      "endingSale": "Ending sale",
+      "minimalRestVal": "Minimal rest value",
+      "rightLevel": "Right level",
+      "tooltip": {
+        "minimalRest": "Mininal rest"
+      }
+    },
+    "group": {
+      "tooltip": {
+        "description": "Description of classification group"
+      }
+    }
+  },
+  "discountDetail": {
+    "tooltip": {
+      "discount": "Discount of discount detail",
+      "region": "Region of discount detail"
+    },
+    "selectDiscount": "Select discount",
+    "selectRegion": "Select region"
+  },
+  "discount": {
+    "item": {
+      "discount": "Discount",
+      "mode": {
+        "0": "M",
+        "1": "o",
+        "2": "d",
+        "3": "e",
+        "bold": "\u001b[1mMode\u001b[22m",
+        "strip": "Mode",
+        "stripColors": "Mode",
+        "trap": "ӎםÐɘ",
+        "zalgo": "M̵̩̣̼̪̠̤̞̲̮̜͔̗̣̗̯̹̺̝̱̼͚̯̤̻̩͔̳̟͙̫̦͖̫͙̰̜͇̣̤̦̠͎̈̌ͨ̆ͥ͘o̵̬̝̳̝̣̹̝͓̟̻͔̠͚͎̞̳̣͙͔̟̣͈̣͍̗̠͇͎̣̬̣̤͍̤͕̪̙͖͍̻̫̻̗͍̬͙̥̖̭̺̲̰͓̻͎ͯͯ̐̌̀͊͒ͬͪ͗͒̈ͥ̊́͊̕͝ͅd̨̡̧͙̰̟̘̰̳̝̱̻̤̱̥̗̼̰̘̟̖̤̖̺̼͉̤̺̦̙̘̤̯͉̱͓̱̮̘͍̮̤͚̙̦̹̼̩̻͓͍̭̝͎̝̫̱̗̹̪̗͗̌̂͂̏ͫ̅ͮ̉͗ͮ̿̓̓́͝ͅē̴̅̄̏̉̑͆ͭ̆̿ͨ̅̚ ҉̝̮̩̠͈͔͔͈̻̣̰͔̩͕̩͕͖̼̜͕̠̜̥̲̰̗̺̭͇̳͕̥͍̲͉̦̖̪͉̫̟̺̺͖̦̠̳̞̪͈ͅ",
+        "zebra": "M\u001b[7mo\u001b[27md\u001b[7me\u001b[27m",
+        "rainbow": "\u001b[31mM\u001b[39m\u001b[33mo\u001b[39m\u001b[32md\u001b[39m\u001b[34me\u001b[39m",
+        "random": "\u001b[7mM\u001b[27m\u001b[93mo\u001b[39m\u001b[31md\u001b[39m\u001b[93me\u001b[39m",
+        "america": "\u001b[31mM\u001b[39m\u001b[37mo\u001b[39m\u001b[34md\u001b[39m\u001b[31me\u001b[39m",
+        "reset": "\u001b[0mMode\u001b[0m",
+        "dim": "\u001b[2mMode\u001b[22m",
+        "italic": "\u001b[3mMode\u001b[23m",
+        "underline": "\u001b[4mMode\u001b[24m",
+        "inverse": "\u001b[7mMode\u001b[27m",
+        "hidden": "\u001b[8mMode\u001b[28m",
+        "strikethrough": "\u001b[9mMode\u001b[29m",
+        "black": "\u001b[30mMode\u001b[39m",
+        "red": "\u001b[31mMode\u001b[39m",
+        "green": "\u001b[32mMode\u001b[39m",
+        "yellow": "\u001b[33mMode\u001b[39m",
+        "blue": "\u001b[34mMode\u001b[39m",
+        "magenta": "\u001b[35mMode\u001b[39m",
+        "cyan": "\u001b[36mMode\u001b[39m",
+        "white": "\u001b[37mMode\u001b[39m",
+        "gray": "\u001b[90mMode\u001b[39m",
+        "grey": "\u001b[90mMode\u001b[39m",
+        "brightRed": "\u001b[91mMode\u001b[39m",
+        "brightGreen": "\u001b[92mMode\u001b[39m",
+        "brightYellow": "\u001b[93mMode\u001b[39m",
+        "brightBlue": "\u001b[94mMode\u001b[39m",
+        "brightMagenta": "\u001b[95mMode\u001b[39m",
+        "brightCyan": "\u001b[96mMode\u001b[39m",
+        "brightWhite": "\u001b[97mMode\u001b[39m",
+        "bgBlack": "\u001b[40mMode\u001b[49m",
+        "bgRed": "\u001b[41mMode\u001b[49m",
+        "bgGreen": "\u001b[42mMode\u001b[49m",
+        "bgYellow": "\u001b[43mMode\u001b[49m",
+        "bgBlue": "\u001b[44mMode\u001b[49m",
+        "bgMagenta": "\u001b[45mMode\u001b[49m",
+        "bgCyan": "\u001b[46mMode\u001b[49m",
+        "bgWhite": "\u001b[47mMode\u001b[49m",
+        "bgGray": "\u001b[100mMode\u001b[49m",
+        "bgGrey": "\u001b[100mMode\u001b[49m",
+        "bgBrightRed": "\u001b[101mMode\u001b[49m",
+        "bgBrightGreen": "\u001b[102mMode\u001b[49m",
+        "bgBrightYellow": "\u001b[103mMode\u001b[49m",
+        "bgBrightBlue": "\u001b[104mMode\u001b[49m",
+        "bgBrightMagenta": "\u001b[105mMode\u001b[49m",
+        "bgBrightCyan": "\u001b[106mMode\u001b[49m",
+        "bgBrightWhite": "\u001b[107mMode\u001b[49m",
+        "blackBG": "\u001b[40mMode\u001b[49m",
+        "redBG": "\u001b[41mMode\u001b[49m",
+        "greenBG": "\u001b[42mMode\u001b[49m",
+        "yellowBG": "\u001b[43mMode\u001b[49m",
+        "blueBG": "\u001b[44mMode\u001b[49m",
+        "magentaBG": "\u001b[45mMode\u001b[49m",
+        "cyanBG": "\u001b[46mMode\u001b[49m",
+        "whiteBG": "\u001b[47mMode\u001b[49m",
+        "mode": "Mode"
+      },
+      "countType": {
+        "0": "C",
+        "1": "o",
+        "2": "u",
+        "3": "n",
+        "4": "t",
+        "5": " ",
+        "6": "t",
+        "7": "y",
+        "8": "p",
+        "9": "e",
+        "bold": "\u001b[1mCount type\u001b[22m",
+        "strip": "Count type",
+        "stripColors": "Count type",
+        "trap": "ϾʘƱͶŦ ͳҰҎƎ",
+        "zalgo": "C͌͐̓̃͋ͧ̉͐͐ͣ̍̐ͫ̚͢ ҉̟͙͉̩̜̲̣̙̱͇̭̰̜̱̼͇̣̭̩̟̱͎̘̥͕̗̖̩̞̤̩͖̰̥͍̞̭͙̖̝̺̭̱̥̮͕̗̗̰̮̥͍͉̞̜͔̫̘̗͇̥̭̘̭͟͠ͅǫ̷̵̱̳̹̩̫͔͈͚͈̲̱̯̝͖̥̙͚͚̼̪͚̬̦̺̣͈͓̼̼͖̞̦̠͉̳͙̲̟̰̳̟̥͚̠̥͓͕̯̯̭̬͇͎̮͓̺̪̬̩͕̮̓ͯ̄̎̏̌͐̅ͯ̓̐̈̑̈̆ͯ̈ͤͥ̕͟ͅͅͅu̷̧̳̯̼͙͕̟̹̹̫̠͈̝͖̓̾ͥ̋̍ͥ͛̽ͩ̾ͧ̌̂ͪ̿͛̚͡ņ̸̡̪̹̞̭̼̲̯͔̭͕̟̭͚̱̪͚͙̰̙̼̫͎̯̲̯͎̖̪̦͗̍͗ͣͤ͑̉̏̀̔ͩt̷̢̨͎͖̗̩͙̘͇͎̘̱̄ͤͯͮͤ͂́ ̠͚̥̥͕̻͔͇̜̙̝͔̪̣̱͇̭̦̙͉͓́̋̀ͭ̓͗͒͒͛ͯ́ͯ̋͞͞ͅṭ̴̵̵̨͍̞͚͈͔̹̣̞̹͕̜̳̗͚̫͎̰̯̘͇̭̝͙̮̟̥̯͕͎͕̩̪̹̗̭͈͕͔͈̫̻̣̹̲̹͙ͬ͂̈̓̏͘ͅȳ͖̤̖̱͕̲̦̙̭̳̙͕̫̥͚̺͇͓̻̮̖̙̰̻̬̗̃͌ͦͥ̀̕͢p̷̟̮̹̦̖̲̲̟͎̪͔͔̪͓̖͇̪̯̠͍̲̯̍̿́͌̂̎̑̀͟è̜͇͎̲̜̊ͭ̿̈̅̊͊̓̄̇̔ͩ̽̈̉͜͠",
+        "zebra": "C\u001b[7mo\u001b[27mu\u001b[7mn\u001b[27mt\u001b[7m \u001b[27mt\u001b[7my\u001b[27mp\u001b[7me\u001b[27m",
+        "rainbow": "\u001b[31mC\u001b[39m\u001b[33mo\u001b[39m\u001b[32mu\u001b[39m\u001b[34mn\u001b[39m\u001b[35mt\u001b[39m \u001b[33mt\u001b[39m\u001b[32my\u001b[39m\u001b[34mp\u001b[39m\u001b[35me\u001b[39m",
+        "random": "\u001b[94mC\u001b[39m\u001b[93mo\u001b[39m\u001b[31mu\u001b[39m\u001b[37mn\u001b[39m\u001b[32mt\u001b[39m \u001b[4mt\u001b[24m\u001b[94my\u001b[39m\u001b[4mp\u001b[24m\u001b[90me\u001b[39m",
+        "america": "\u001b[31mC\u001b[39m\u001b[37mo\u001b[39m\u001b[34mu\u001b[39m\u001b[31mn\u001b[39m\u001b[37mt\u001b[39m \u001b[31mt\u001b[39m\u001b[37my\u001b[39m\u001b[34mp\u001b[39m\u001b[31me\u001b[39m",
+        "reset": "\u001b[0mCount type\u001b[0m",
+        "dim": "\u001b[2mCount type\u001b[22m",
+        "italic": "\u001b[3mCount type\u001b[23m",
+        "underline": "\u001b[4mCount type\u001b[24m",
+        "inverse": "\u001b[7mCount type\u001b[27m",
+        "hidden": "\u001b[8mCount type\u001b[28m",
+        "strikethrough": "\u001b[9mCount type\u001b[29m",
+        "black": "\u001b[30mCount type\u001b[39m",
+        "red": "\u001b[31mCount type\u001b[39m",
+        "green": "\u001b[32mCount type\u001b[39m",
+        "yellow": "\u001b[33mCount type\u001b[39m",
+        "blue": "\u001b[34mCount type\u001b[39m",
+        "magenta": "\u001b[35mCount type\u001b[39m",
+        "cyan": "\u001b[36mCount type\u001b[39m",
+        "white": "\u001b[37mCount type\u001b[39m",
+        "gray": "\u001b[90mCount type\u001b[39m",
+        "grey": "\u001b[90mCount type\u001b[39m",
+        "brightRed": "\u001b[91mCount type\u001b[39m",
+        "brightGreen": "\u001b[92mCount type\u001b[39m",
+        "brightYellow": "\u001b[93mCount type\u001b[39m",
+        "brightBlue": "\u001b[94mCount type\u001b[39m",
+        "brightMagenta": "\u001b[95mCount type\u001b[39m",
+        "brightCyan": "\u001b[96mCount type\u001b[39m",
+        "brightWhite": "\u001b[97mCount type\u001b[39m",
+        "bgBlack": "\u001b[40mCount type\u001b[49m",
+        "bgRed": "\u001b[41mCount type\u001b[49m",
+        "bgGreen": "\u001b[42mCount type\u001b[49m",
+        "bgYellow": "\u001b[43mCount type\u001b[49m",
+        "bgBlue": "\u001b[44mCount type\u001b[49m",
+        "bgMagenta": "\u001b[45mCount type\u001b[49m",
+        "bgCyan": "\u001b[46mCount type\u001b[49m",
+        "bgWhite": "\u001b[47mCount type\u001b[49m",
+        "bgGray": "\u001b[100mCount type\u001b[49m",
+        "bgGrey": "\u001b[100mCount type\u001b[49m",
+        "bgBrightRed": "\u001b[101mCount type\u001b[49m",
+        "bgBrightGreen": "\u001b[102mCount type\u001b[49m",
+        "bgBrightYellow": "\u001b[103mCount type\u001b[49m",
+        "bgBrightBlue": "\u001b[104mCount type\u001b[49m",
+        "bgBrightMagenta": "\u001b[105mCount type\u001b[49m",
+        "bgBrightCyan": "\u001b[106mCount type\u001b[49m",
+        "bgBrightWhite": "\u001b[107mCount type\u001b[49m",
+        "blackBG": "\u001b[40mCount type\u001b[49m",
+        "redBG": "\u001b[41mCount type\u001b[49m",
+        "greenBG": "\u001b[42mCount type\u001b[49m",
+        "yellowBG": "\u001b[43mCount type\u001b[49m",
+        "blueBG": "\u001b[44mCount type\u001b[49m",
+        "magentaBG": "\u001b[45mCount type\u001b[49m",
+        "cyanBG": "\u001b[46mCount type\u001b[49m",
+        "whiteBG": "\u001b[47mCount type\u001b[49m"
+      },
+      "roundRule": {
+        "0": "Rule 1",
+        "1": "Rule 2",
+        "2": "u",
+        "3": "n",
+        "4": "d",
+        "5": " ",
+        "6": "r",
+        "7": "u",
+        "8": "l",
+        "9": "e",
+        "bold": "\u001b[1mRound rule\u001b[22m",
+        "strip": "Round rule",
+        "stripColors": "Round rule",
+        "trap": "Ɍ\u06ddƱΠԂ ɌƱĹҼ",
+        "zalgo": "Ŗ̛̞̦̫̰̥̜̗̱̰͕̳̗̪̥̜͙̩̦̬̱̖̜̗̘̪̳͕̤͚̜͚͒̇͛̐͋̑ͬͦ͐̎̀͢ͅo͚̝̥̤͎͚̳̙͔̺͖͎͇̜͉̳̼̬̱̓͗ͤ̿̍ͯ͌̈̐͂͒͐̽̾ͧ̀̀͟ư̴̘͇͉͉͉̰̘͍͎̠̱̝͍͚͇̙̲͖̤͙̼̜̙̟͎̜̲̣̳͔̣̬̻͉̲͓̫̫̳̬̼̥̩̺̤͙̪̫̖͎̭̭̤͚̘͕̠̇ͧ̋̒͆́ͅͅͅņ̧̩̫̺͍̩̪̞͔̣̂͆ͧͤ̈ͤ̆̚͠dͪ̇̄ͩ̋̀ͤ͑̓̑̕ ҉͍̳̹̻̰̯̳͎͓͈̟̱̺̗̮̤̰̼̱̝̤̜̼͉͔̹͠ͅ ̡̺͔͈͔͎͚̤̝͙̱̲̞̯̟͍̦͇̗͎̙͍̞̣̝̠͎̗̘̰̯̥̗̩͓̙̱̥̙̗̤̠͈͚̤̜̦̗̀̓͛ͪ͊ͤͦͮ͒̏̎ͫͫ̾ͦ̈͛͗͟r̵̬̼͍̖̙̘̫͓̱̠̗͙̙̗͐͐̎̿̌͟͠ư̴̙̘̮̗̻͖̟͙͚̤̜͇̮͇̞̝͙̭̘͍̟̱̣͍̣̪̖̣̜̳ͦ͑̒ͯͮ̏ͧ̆͆͆͝ͅͅl̶͎̝̭̥̖̭͕̞̪͔̪̙̫͔̲̫̦̗͕̳̣̲̭̩̺͙̖͈̖͎͙͔̤̖̠̻͚͕̺̭͉̪͇͎͈͎̥͖͗͆ͣ͛̆ͣ̃̌̂̊́͊͌́͒̃͘͝ͅe̯̣̬̗̝͎͇̦̰̺͓̣̖̬̖̬̠̪̠͚̘̺̙̻̜͙̯̠͈̣̰͍̞͖̦͔̜̳͙̺̠̲̫̱̤̪̻̲̗̝͕̰̲͖̙͕̼̭̗͔̤̩̔̿̆̏̓͒̆̾̓̋̕͟͡͝",
+        "zebra": "R\u001b[7mo\u001b[27mu\u001b[7mn\u001b[27md\u001b[7m \u001b[27mr\u001b[7mu\u001b[27ml\u001b[7me\u001b[27m",
+        "rainbow": "\u001b[31mR\u001b[39m\u001b[33mo\u001b[39m\u001b[32mu\u001b[39m\u001b[34mn\u001b[39m\u001b[35md\u001b[39m \u001b[33mr\u001b[39m\u001b[32mu\u001b[39m\u001b[34ml\u001b[39m\u001b[35me\u001b[39m",
+        "random": "\u001b[4mR\u001b[24m\u001b[32mo\u001b[39m\u001b[37mu\u001b[39m\u001b[32mn\u001b[39m\u001b[93md\u001b[39m \u001b[33mr\u001b[39m\u001b[97mu\u001b[39m\u001b[7ml\u001b[27m\u001b[37me\u001b[39m",
+        "america": "\u001b[31mR\u001b[39m\u001b[37mo\u001b[39m\u001b[34mu\u001b[39m\u001b[31mn\u001b[39m\u001b[37md\u001b[39m \u001b[31mr\u001b[39m\u001b[37mu\u001b[39m\u001b[34ml\u001b[39m\u001b[31me\u001b[39m",
+        "reset": "\u001b[0mRound rule\u001b[0m",
+        "dim": "\u001b[2mRound rule\u001b[22m",
+        "italic": "\u001b[3mRound rule\u001b[23m",
+        "underline": "\u001b[4mRound rule\u001b[24m",
+        "inverse": "\u001b[7mRound rule\u001b[27m",
+        "hidden": "\u001b[8mRound rule\u001b[28m",
+        "strikethrough": "\u001b[9mRound rule\u001b[29m",
+        "black": "\u001b[30mRound rule\u001b[39m",
+        "red": "\u001b[31mRound rule\u001b[39m",
+        "green": "\u001b[32mRound rule\u001b[39m",
+        "yellow": "\u001b[33mRound rule\u001b[39m",
+        "blue": "\u001b[34mRound rule\u001b[39m",
+        "magenta": "\u001b[35mRound rule\u001b[39m",
+        "cyan": "\u001b[36mRound rule\u001b[39m",
+        "white": "\u001b[37mRound rule\u001b[39m",
+        "gray": "\u001b[90mRound rule\u001b[39m",
+        "grey": "\u001b[90mRound rule\u001b[39m",
+        "brightRed": "\u001b[91mRound rule\u001b[39m",
+        "brightGreen": "\u001b[92mRound rule\u001b[39m",
+        "brightYellow": "\u001b[93mRound rule\u001b[39m",
+        "brightBlue": "\u001b[94mRound rule\u001b[39m",
+        "brightMagenta": "\u001b[95mRound rule\u001b[39m",
+        "brightCyan": "\u001b[96mRound rule\u001b[39m",
+        "brightWhite": "\u001b[97mRound rule\u001b[39m",
+        "bgBlack": "\u001b[40mRound rule\u001b[49m",
+        "bgRed": "\u001b[41mRound rule\u001b[49m",
+        "bgGreen": "\u001b[42mRound rule\u001b[49m",
+        "bgYellow": "\u001b[43mRound rule\u001b[49m",
+        "bgBlue": "\u001b[44mRound rule\u001b[49m",
+        "bgMagenta": "\u001b[45mRound rule\u001b[49m",
+        "bgCyan": "\u001b[46mRound rule\u001b[49m",
+        "bgWhite": "\u001b[47mRound rule\u001b[49m",
+        "bgGray": "\u001b[100mRound rule\u001b[49m",
+        "bgGrey": "\u001b[100mRound rule\u001b[49m",
+        "bgBrightRed": "\u001b[101mRound rule\u001b[49m",
+        "bgBrightGreen": "\u001b[102mRound rule\u001b[49m",
+        "bgBrightYellow": "\u001b[103mRound rule\u001b[49m",
+        "bgBrightBlue": "\u001b[104mRound rule\u001b[49m",
+        "bgBrightMagenta": "\u001b[105mRound rule\u001b[49m",
+        "bgBrightCyan": "\u001b[106mRound rule\u001b[49m",
+        "bgBrightWhite": "\u001b[107mRound rule\u001b[49m",
+        "blackBG": "\u001b[40mRound rule\u001b[49m",
+        "redBG": "\u001b[41mRound rule\u001b[49m",
+        "greenBG": "\u001b[42mRound rule\u001b[49m",
+        "yellowBG": "\u001b[43mRound rule\u001b[49m",
+        "blueBG": "\u001b[44mRound rule\u001b[49m",
+        "magentaBG": "\u001b[45mRound rule\u001b[49m",
+        "cyanBG": "\u001b[46mRound rule\u001b[49m",
+        "whiteBG": "\u001b[47mRound rule\u001b[49m"
+      },
+      "tooltip": {
+        "mode": "Mode of discount",
+        "maxAmount": "Max amount of discount",
+        "maxPercent": "Max percent of discount"
+      },
+      "discountObjectType": {
+        "down": "Discount",
+        "paymentDown": "Discount instead payment",
+        "up": "Markup",
+        "unallocatedUp": "Distributed markup",
+        "distributedMarkup": "Distributed markup"
+      },
+      "detail": "Properties",
+      "addNew": "Add new discount"
+    },
+    "detail": {
+      "discount": "Parent",
+      "tooltip": {
+        "discount": "Parent of discount detail",
+        "dPercent": "DPercent of discount detail",
+        "franchise": "Franchise of discount detail",
+        "fromAmount": "From amount of discount detail",
+        "fromGuest": "From guest of discount detail",
+        "toGuest": "To guest of discount detail"
+      },
+      "selectDiscount": "Select parent",
+      "selectDPercent": "Select DPercent",
+      "selectBonusPercentVal": "Select bonus percent valye",
+      "dPercent": "DPercent",
+      "percentOrAmount": "Percent/Amount",
+      "discountDetails": "Discount details",
+      "franchise": "Franchise",
+      "selectFranchise": "Select franchise",
+      "discountDetail": "Discount detail"
+    },
+    "all": "All"
+  },
+  "menu": {
+    "item": {
+      "addLineMode": "",
+      "tooltip": {
+        "addLineMode": "",
+        "portionName": "",
+        "altPortion": "",
+        "portionWeight": "",
+        "qntDecDigits": ""
+      },
+      "selectAddLineMode": "",
+      "portionName": "",
+      "altPortion": "",
+      "portionWeight": "",
+      "qntDecDigits": "",
+      "priceMode": ""
+    }
+  },
+  "comboscheme": {
+    "create": {
+      "success": "Combo scheme is created"
+    },
+    "update": {
+      "success": "Combo scheme is updated"
+    },
+    "addNew": "Add new combo scheme",
+    "detail": "Combo scheme detail",
+    "tooltip": {
+      "name": "Name of combo scheme",
+      "code": "Code of combo scheme",
+      "altName": "Alternative name of combo scheme"
+    },
+    "item": {
+      "create": {
+        "success": "Combo scheme is created"
+      },
+      "update": {
+        "success": "Combo scheme is updated"
+      },
+      "detail": "Combo scheme detail",
+      "tooltip": {
+        "name": "Name of combo scheme item",
+        "code": "Code of combo scheme item",
+        "altName": "Alternative of combo scheme item"
+      },
+      "comboschemes": "Combo schemes",
+      "addNew": "Add new combo scheme item"
+    },
+    "deleteMulti": {
+      "success": "Combo schemes is deleted"
+    },
+    "delete": {
+      "success": "Combo scheme is deleted"
+    },
+    "group": {
+      "addNew": ""
+    }
+  },
+  "comboScheme": {
+    "item": {
+      "create": {
+        "success": "Combo"
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "autoOpen": "",
+      "comboschemes": ""
+    },
+    "comboschemes": "",
+    "autoOpen": "Auto open",
+    "group": {
+      "addNew": "Add new combo scheme"
+    },
+    "upperLimit": "Upper limit",
+    "freeCount": "Free count",
+    "sHQuantity": "SH quantity",
+    "useUpperLimit": "Use upper limit",
+    "detail": {
+      "0": "P",
+      "1": "r",
+      "2": "o",
+      "3": "p",
+      "4": "e",
+      "5": "r",
+      "6": "t",
+      "7": "i",
+      "8": "e",
+      "9": "s",
+      "bold": "\u001b[1mProperties\u001b[22m",
+      "strip": "Properties",
+      "stripColors": "Properties",
+      "trap": "ҎЯØҎËЯͳ༏ĕϞ",
+      "zalgo": "P̢̳̮͕̪̙̣͈̮̩̲̔̅̌̑͑̌̂̐͗ͧ̒ͯ͌̆ͨ̐̍̕ͅr͎͈͓͉̺͕̯̪͇͉̙͓̻̪͚̫̺̘̯͔̻̥̪͇̰̭̯̠̺͔̤̺̱̩̭̺̱̙̼̭̳̘̥͎̗ͩ̈͆ͫ͌ͭͭ͒̌̇́̉̀͟ͅo̧̧̘̖͖̞̫̜̼͇̥̗͈̠̭͈̗̝͔͕̣̼̬̯͓͖̠͓̖̭̺̔̉̽͛ͧ̂̂ͤͭͭ̔ͨͪ̎ͯ̀͘̕͡p̨̻̞̹̝͍̦̤̱̹̻̟̠̲̖̲͈͍̻͈̠͕͎̻͔̗͍̱͈̦͈ͧͭ͑̋̏ͭ̐͢ͅe̢̞̫͇̹̻̻̘̱̟̱͓̮͉͔͓̥͕͔̠̬̟̼̫̤͕̩̹̝̪̭͚̖̘͙̤̦̪̹̗̺̘̲̘̦̬͎̣̞̯̦̍̽͋̈ͣ̆͋͋ͤ̈ͥ͢͠ͅr̶̢ͭ̆ͥ̽ ҉̧ ҉̹̗̻̰̺̳̘̹̟ͅt̛̎̃̀͒ͦͥ͐̆̒͗ͭ͂ͪ́̌̏͂ͤ́̕ ҉͍̟͉͖͈̰͚̤̗̤̭̯̭̹ͅḭ̸̲͙̘̬̭̣̫͚̻̪̱̥̜͖̭̖͎̖̻̪̥̥̦͓̣̺̩̘̙͙͖̘̺̠̩̰̮̠͖̗̭͇̹̩͉͈̤̞̳̹͚̟͇͓͇̭͙͉͍̟̥͙͔̱͖͊̊̽̈̋̈͋̑ͣ̀ͬ͘ͅe̡̢̛̩̝̜̰̭͙̳͔̼̖̩̯̺͖̫̺̻͖̻̰̮̩̯̙͎͚̫ͩ͂̑ͯͬͥ̂̌͋͌̅͌͛͆̅̏̂̊̑̕͡ͅs̴̼̣̪͈̤̦̼̼͕͈̪̯̦̫̤͈̜͙̜͖̯͚͚̳͙̜̼̙̦̻͇̖͕̣̙̦̝̳̠̬̝̳̣̖̗̩͖̼̠̮̬̙̰̳̺̖̮͌̎ͪ́͋ͭ̄̑̋͝",
+      "zebra": "P\u001b[7mr\u001b[27mo\u001b[7mp\u001b[27me\u001b[7mr\u001b[27mt\u001b[7mi\u001b[27me\u001b[7ms\u001b[27m",
+      "rainbow": "\u001b[31mP\u001b[39m\u001b[33mr\u001b[39m\u001b[32mo\u001b[39m\u001b[34mp\u001b[39m\u001b[35me\u001b[39m\u001b[31mr\u001b[39m\u001b[33mt\u001b[39m\u001b[32mi\u001b[39m\u001b[34me\u001b[39m\u001b[35ms\u001b[39m",
+      "random": "\u001b[34mP\u001b[39m\u001b[37mr\u001b[39m\u001b[93mo\u001b[39m\u001b[7mp\u001b[27m\u001b[32me\u001b[39m\u001b[94mr\u001b[39m\u001b[92mt\u001b[39m\u001b[91mi\u001b[39m\u001b[33me\u001b[39m\u001b[31ms\u001b[39m",
+      "america": "\u001b[31mP\u001b[39m\u001b[37mr\u001b[39m\u001b[34mo\u001b[39m\u001b[31mp\u001b[39m\u001b[37me\u001b[39m\u001b[34mr\u001b[39m\u001b[31mt\u001b[39m\u001b[37mi\u001b[39m\u001b[34me\u001b[39m\u001b[31ms\u001b[39m",
+      "reset": "\u001b[0mProperties\u001b[0m",
+      "dim": "\u001b[2mProperties\u001b[22m",
+      "italic": "\u001b[3mProperties\u001b[23m",
+      "underline": "\u001b[4mProperties\u001b[24m",
+      "inverse": "\u001b[7mProperties\u001b[27m",
+      "hidden": "\u001b[8mProperties\u001b[28m",
+      "strikethrough": "\u001b[9mProperties\u001b[29m",
+      "black": "\u001b[30mProperties\u001b[39m",
+      "red": "\u001b[31mProperties\u001b[39m",
+      "green": "\u001b[32mProperties\u001b[39m",
+      "yellow": "\u001b[33mProperties\u001b[39m",
+      "blue": "\u001b[34mProperties\u001b[39m",
+      "magenta": "\u001b[35mProperties\u001b[39m",
+      "cyan": "\u001b[36mProperties\u001b[39m",
+      "white": "\u001b[37mProperties\u001b[39m",
+      "gray": "\u001b[90mProperties\u001b[39m",
+      "grey": "\u001b[90mProperties\u001b[39m",
+      "brightRed": "\u001b[91mProperties\u001b[39m",
+      "brightGreen": "\u001b[92mProperties\u001b[39m",
+      "brightYellow": "\u001b[93mProperties\u001b[39m",
+      "brightBlue": "\u001b[94mProperties\u001b[39m",
+      "brightMagenta": "\u001b[95mProperties\u001b[39m",
+      "brightCyan": "\u001b[96mProperties\u001b[39m",
+      "brightWhite": "\u001b[97mProperties\u001b[39m",
+      "bgBlack": "\u001b[40mProperties\u001b[49m",
+      "bgRed": "\u001b[41mProperties\u001b[49m",
+      "bgGreen": "\u001b[42mProperties\u001b[49m",
+      "bgYellow": "\u001b[43mProperties\u001b[49m",
+      "bgBlue": "\u001b[44mProperties\u001b[49m",
+      "bgMagenta": "\u001b[45mProperties\u001b[49m",
+      "bgCyan": "\u001b[46mProperties\u001b[49m",
+      "bgWhite": "\u001b[47mProperties\u001b[49m",
+      "bgGray": "\u001b[100mProperties\u001b[49m",
+      "bgGrey": "\u001b[100mProperties\u001b[49m",
+      "bgBrightRed": "\u001b[101mProperties\u001b[49m",
+      "bgBrightGreen": "\u001b[102mProperties\u001b[49m",
+      "bgBrightYellow": "\u001b[103mProperties\u001b[49m",
+      "bgBrightBlue": "\u001b[104mProperties\u001b[49m",
+      "bgBrightMagenta": "\u001b[105mProperties\u001b[49m",
+      "bgBrightCyan": "\u001b[106mProperties\u001b[49m",
+      "bgBrightWhite": "\u001b[107mProperties\u001b[49m",
+      "blackBG": "\u001b[40mProperties\u001b[49m",
+      "redBG": "\u001b[41mProperties\u001b[49m",
+      "greenBG": "\u001b[42mProperties\u001b[49m",
+      "yellowBG": "\u001b[43mProperties\u001b[49m",
+      "blueBG": "\u001b[44mProperties\u001b[49m",
+      "magentaBG": "\u001b[45mProperties\u001b[49m",
+      "cyanBG": "\u001b[46mProperties\u001b[49m",
+      "whiteBG": "\u001b[47mProperties\u001b[49m",
+      "comboGroups": "Combo groups",
+      "tooltip": {
+        "sortNum": "Sort num of combo scheme detail",
+        "upLimit": "Up limit of combo scheme detail",
+        "downLimit": "Down limit of combo scheme detail"
+      },
+      "sortNum": "Sort num"
+    },
+    "usedownLimit": "Use down limit"
+  },
+  "modischeme": {
+    "item": {
+      "modischemes": "Modifier schemes",
+      "create": {
+        "success": "Modi scheme item is created"
+      },
+      "update": {
+        "success": "Modi scheme item is updated"
+      },
+      "detail": "Modifier scheme details",
+      "addNew": "Add new modifier scheme",
+      "tooltip": {
+        "name": "Name of modifier scheme",
+        "code": "Code of modifier scheme",
+        "altName": "Alternative name of modifier scheme"
+      }
+    },
+    "delete": {
+      "success": "Modi scheme is deleted"
+    },
+    "create": {
+      "success": "Modischeme is creted"
+    },
+    "update": {
+      "success": "Modischeme is updated"
+    },
+    "addNew": "Add new modifier scheme",
+    "detail": "Modifier scheme detail",
+    "tooltip": {
+      "name": "Name of modifier scheme",
+      "code": "Code of modifier scheme",
+      "altName": "Alternative name of modifier scheme"
+    },
+    "deleteMulti": {
+      "success": "Modi schemes are deleted"
+    },
+    "group": {
+      "addNew": "",
+      "allDescription": ""
+    }
+  },
+  "modiScheme": {
+    "item": {
+      "freeCount": "Free count",
+      "sHQuantity": "SH quantity",
+      "usePowerLimit": "Use power limit",
+      "powerLimit": "Power limit",
+      "useUpperLimit": "Use upper limit",
+      "upperLimit": "Upper limit"
+    },
+    "group": {
+      "addNew": "Add new modi scheme group"
+    },
+    "powerLimit": "Power limit",
+    "upperLimit": "Upper limit",
+    "usePowerLimit": "Use power limit",
+    "detail": {
+      "0": "P",
+      "1": "r",
+      "2": "o",
+      "3": "p",
+      "4": "e",
+      "5": "r",
+      "6": "t",
+      "7": "i",
+      "8": "e",
+      "9": "s",
+      "bold": "\u001b[1mProperties\u001b[22m",
+      "strip": "Properties",
+      "stripColors": "Properties",
+      "trap": "Ҏ®øҎƎȐͳ༏ΣϞ",
+      "zalgo": "P̴̧̻̥͖̤̻̹̭̟̙̬̯̗̞̳̪̣͉̙̻̖̹͖̲̖̹̺͉̲̱̘̼̼͖͕̪̘͕̮̘̙͈̫̠̮̠̠̞̝̬̱̥͖̑ͨͯͦ̚ͅͅȑ̏͗ͣ̾͂ͫ̍͗ͮͤ͒̀ͮ͡ ҉̛̩͖͖̠͚̭̜̥̞̫̠̤̱̪̬̲̖͓̤̤͕̟͜ͅo̢͙̥͎͚̙̻̘͖̠̭̥̙̞̱͙̪̘͍͓͈͌͛͌̀͒ͬ̓̂ͮͫ̃̋ͬ͐̎ͣ̀̚̚͡ͅp̵̷̣̤̠͇͔͓̦̭͚͈̲̗͉͕̥̟̙̪̦̥̜̗̣̪͇͔͍̜̙̼͇̼̘̂̏ͧͪ̔͛ͨ͐ͦͤ͐̃́ͅe̵̢̜̟̥̘̠̜̰̺̮͍͈͈͙̣̭̼͕̲̱͔̥͕̣̼̿͊͊ͨͯ͋̾ͭ͘̕ͅȑ̓̆̑ͪ̽͊̈͐͒̈̂̿ͫ͊ͨͬ ҉̴̨̤̠͎̩̭͕̘̳̤͔̳͍̻̜̠̳̫͙̙̝̯̩̬͉̞͙͈̹̙̻̼̣̝̦̲͔̞͙̮̼̟̣͓̭̭͈̪̗̝͉̮̹̠̟͕͈̬̰͔̣̗͘͟ͅͅͅt̶̡̢̻̬͈͎͓̤̰̦͎͙̝̯͉̹͍̞̦̰̬̹̣̯̩̥̣̗͍͇̝̮̟͔ͣͣ̅̒͆͆̒͗ͣ̎ͮ̾̍̈ͮ̕͢ȋ̢̳͓̣̘̰͈̖̼̣̹͚̞̘̦̜̺̱̯̼͖̟̫̫͕̙̠͈̝̥̫̯̮̜͙̳ͨͣ̌̃́͌̚̕ͅͅͅę̶̸̰̩̩͕̟̗͉̦̗̖͉̫̤̜̬͖͖͕͎̱̤̝̦̣̟̘̲͉͓̩̳͕̜ͤ̔̊̐͌ͯͦ̿ͨ̉́̅͂̏͒̇͑͠s͎̘͉̗̫̘͙̜̠͓̪͖̩̘̹̳͔̗͕̹̱̦̥̪͙̖̩̭͚͖͎͓̦͎͔̠̯̲̹͈̘̲̳͇͍̻̜̙̪̜̩̳̙̠̦̆ͭ͊̾̌̾̔̓̐͐͒̌͛̅͢͝",
+      "zebra": "P\u001b[7mr\u001b[27mo\u001b[7mp\u001b[27me\u001b[7mr\u001b[27mt\u001b[7mi\u001b[27me\u001b[7ms\u001b[27m",
+      "rainbow": "\u001b[31mP\u001b[39m\u001b[33mr\u001b[39m\u001b[32mo\u001b[39m\u001b[34mp\u001b[39m\u001b[35me\u001b[39m\u001b[31mr\u001b[39m\u001b[33mt\u001b[39m\u001b[32mi\u001b[39m\u001b[34me\u001b[39m\u001b[35ms\u001b[39m",
+      "random": "\u001b[36mP\u001b[39m\u001b[35mr\u001b[39m\u001b[34mo\u001b[39m\u001b[33mp\u001b[39m\u001b[93me\u001b[39m\u001b[91mr\u001b[39m\u001b[36mt\u001b[39m\u001b[94mi\u001b[39m\u001b[36me\u001b[39m\u001b[97ms\u001b[39m",
+      "america": "\u001b[31mP\u001b[39m\u001b[37mr\u001b[39m\u001b[34mo\u001b[39m\u001b[31mp\u001b[39m\u001b[37me\u001b[39m\u001b[34mr\u001b[39m\u001b[31mt\u001b[39m\u001b[37mi\u001b[39m\u001b[34me\u001b[39m\u001b[31ms\u001b[39m",
+      "reset": "\u001b[0mProperties\u001b[0m",
+      "dim": "\u001b[2mProperties\u001b[22m",
+      "italic": "\u001b[3mProperties\u001b[23m",
+      "underline": "\u001b[4mProperties\u001b[24m",
+      "inverse": "\u001b[7mProperties\u001b[27m",
+      "hidden": "\u001b[8mProperties\u001b[28m",
+      "strikethrough": "\u001b[9mProperties\u001b[29m",
+      "black": "\u001b[30mProperties\u001b[39m",
+      "red": "\u001b[31mProperties\u001b[39m",
+      "green": "\u001b[32mProperties\u001b[39m",
+      "yellow": "\u001b[33mProperties\u001b[39m",
+      "blue": "\u001b[34mProperties\u001b[39m",
+      "magenta": "\u001b[35mProperties\u001b[39m",
+      "cyan": "\u001b[36mProperties\u001b[39m",
+      "white": "\u001b[37mProperties\u001b[39m",
+      "gray": "\u001b[90mProperties\u001b[39m",
+      "grey": "\u001b[90mProperties\u001b[39m",
+      "brightRed": "\u001b[91mProperties\u001b[39m",
+      "brightGreen": "\u001b[92mProperties\u001b[39m",
+      "brightYellow": "\u001b[93mProperties\u001b[39m",
+      "brightBlue": "\u001b[94mProperties\u001b[39m",
+      "brightMagenta": "\u001b[95mProperties\u001b[39m",
+      "brightCyan": "\u001b[96mProperties\u001b[39m",
+      "brightWhite": "\u001b[97mProperties\u001b[39m",
+      "bgBlack": "\u001b[40mProperties\u001b[49m",
+      "bgRed": "\u001b[41mProperties\u001b[49m",
+      "bgGreen": "\u001b[42mProperties\u001b[49m",
+      "bgYellow": "\u001b[43mProperties\u001b[49m",
+      "bgBlue": "\u001b[44mProperties\u001b[49m",
+      "bgMagenta": "\u001b[45mProperties\u001b[49m",
+      "bgCyan": "\u001b[46mProperties\u001b[49m",
+      "bgWhite": "\u001b[47mProperties\u001b[49m",
+      "bgGray": "\u001b[100mProperties\u001b[49m",
+      "bgGrey": "\u001b[100mProperties\u001b[49m",
+      "bgBrightRed": "\u001b[101mProperties\u001b[49m",
+      "bgBrightGreen": "\u001b[102mProperties\u001b[49m",
+      "bgBrightYellow": "\u001b[103mProperties\u001b[49m",
+      "bgBrightBlue": "\u001b[104mProperties\u001b[49m",
+      "bgBrightMagenta": "\u001b[105mProperties\u001b[49m",
+      "bgBrightCyan": "\u001b[106mProperties\u001b[49m",
+      "bgBrightWhite": "\u001b[107mProperties\u001b[49m",
+      "blackBG": "\u001b[40mProperties\u001b[49m",
+      "redBG": "\u001b[41mProperties\u001b[49m",
+      "greenBG": "\u001b[42mProperties\u001b[49m",
+      "yellowBG": "\u001b[43mProperties\u001b[49m",
+      "blueBG": "\u001b[44mProperties\u001b[49m",
+      "magentaBG": "\u001b[45mProperties\u001b[49m",
+      "cyanBG": "\u001b[46mProperties\u001b[49m",
+      "whiteBG": "\u001b[47mProperties\u001b[49m",
+      "title": "",
+      "modifierGroups": "Modifier groups",
+      "tooltip": {
+        "sortNum": "Sort num of modi scheme detail",
+        "upLimit": "Up limit of modi scheme detail",
+        "downLimit": "Down limit of modi scheme detail"
+      },
+      "sortNum": "Sort num"
+    },
+    "freeCount": "Free count",
+    "sHQuantity": "SH quantity",
+    "useUpperLimit": "Use upper limit"
+  },
+  "commboScheme": {
+    "freeCount": "",
+    "sHQuantity": "",
+    "useUpperLimit": "",
+    "upperLimit": "",
+    "useDownLimit": "",
+    "downLimit": ""
+  },
+  "comboScheme.freeCount": "",
+  "comboScheme.sHQuantity": "",
+  "comboScheme.useDownLimit": "",
+  "comboScheme.downLimit": "",
+  "comboScheme.useUpperLimit": "",
+  "comboScheme.upperLimit": "",
+  "combo": {
+    "detail": {
+      "openPrices": "Open prices"
+    },
+    "item": {
+      "detail": "Combo detail",
+      "rightLevel": "Right level",
+      "selectDish": "Select a dish"
+    },
+    "group": {
+      "title": "Combo group"
+    }
+  },
+  "filters": {
+    "search": "Search",
+    "or": "or"
+  },
+  "chain": {
+    "title": "Chain 360",
+    "card": {
+      "percent": {
+        "type": {
+          "receipt": "Receipt",
+          "guest": "Guest",
+          "discount": "Discount",
+          "totalAmount": "Total amount"
+        },
+        "period": {
+          "current": {
+            "title": "Current period"
+          },
+          "previous": {
+            "title": "Previous period"
+          }
+        }
+      }
+    },
+    "filter": {
+      "time": {
+        "today": "Today",
+        "thisWeek": "This week",
+        "thisMonth": "This month",
+        "thisYear": "This year"
+      }
+    }
+  },
+  "dashboard": {
+    "report": {
+      "column": {
+        "date": "Date",
+        "altName": "Alt name"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "modifiers": [
+    {
+      "id": 1,
+      "code": 1,
+      "name": "Bố của cơm",
+      "altName": "Dcrop",
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "code": 2,
+      "name": "Cơm tấm",
+      "altName": "Dcrop",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "code": 3,
+      "name": "Cơm rang",
+      "altName": "Dcrop",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "code": 4,
+      "name": "Cơm gà xối mắm",
+      "altName": "Dcrop",
+      "status": "deleted"
+    },
+    {
+      "name": "Cơm tấm sài gòn",
+      "code": "5",
+      "altName": "ok",
+      "status": "Active",
+      "id": 5
+    }
+  ]
+}

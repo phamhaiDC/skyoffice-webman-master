@@ -1,0 +1,953 @@
+{
+  "auth": {
+    "error": {
+      "expiredToken": "Session is expired. Please login again!"
+    },
+    "signOut": {
+      "confirm": "Do you want to sign out?",
+      "signOut": "Sign out"
+    },
+    "accountManagement": "Account management",
+    "login": {
+      "login": "Login",
+      "networkError": "Network error",
+      "noUser": "User no found",
+      "wrongPassword": "Wrong Password",
+      "required": "Username or email is required",
+      "placeholder": "Username or email"
+    },
+    "signIn": "Sign in",
+    "password": {
+      "required": "Password is required",
+      "placeholder": "Password"
+    },
+    "keepMeSignedIn": "Keep me signed in"
+  },
+  "common": {
+    "chooseColumns": "Edit columns",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "columns": "Columns",
+    "apply": "Apply",
+    "field": {
+      "placeholder": {
+        "dateRange": {
+          "from": "From",
+          "to": "To"
+        },
+        "name": "Enter name"
+      },
+      "name": "Name",
+      "code": "Code",
+      "altName": "Alt name",
+      "id": "ID",
+      "status": "Status",
+      "description": "Description",
+      "default": "Default",
+      "dateRange": "Date",
+      "date": "Date"
+    },
+    "confirm": {
+      "unsave": "Changes you made may not be saved. Do you want to continue?",
+      "delete": "Are you sure you want to delete?"
+    },
+    "noData": "There is no data to display",
+    "selectDate": "Select date",
+    "save": "Save",
+    "search": "Search",
+    "delete": "Delete",
+    "selected": "Selected",
+    "total": "Total",
+    "items": "item(s)",
+    "applications": "Applications",
+    "version": "Version",
+    "status": {
+      "deleted": "Deleted",
+      "draft": "Draft",
+      "inactive": "Inactive",
+      "active": "Active",
+      "preset": "Preset"
+    },
+    "addLineMode": {
+      "join": "Join",
+      "separateLine": "Separate line",
+      "separateLineForeachPortion": "Separate line foreach portion",
+      "perPiece": "Per piece",
+      "perStandardDose": "Per standard dose",
+      "perPortionUnitOfWeight": "Per portion unit of weight",
+      "perStandardPortion": "Per standard portion"
+    },
+    "rightLevel": {
+      "test": ""
+    },
+    "add": "Add",
+    "all": "All",
+    "edit": "Edit",
+    "tab": {
+      "basic": "BASIC",
+      "restrictions": "RESTRICTIONS",
+      "visualType": "VISUAL TYPE",
+      "details": "DETAILS",
+      "history": "HISTORY",
+      "restriction": "Restriction",
+      "prices": "PRICES",
+      "portion": "Portion",
+      "portions": "PORTIONS",
+      "classifications": "CLASSIFICATIONS",
+      "apps": "APPS",
+      "statistics": "STATISTICS",
+      "review": "REVIEW",
+      "htmlPreview": "HTML PREVIEW",
+      "pictures": "PICTURES"
+    },
+    "price": {
+      "openPriceDescription": "This allow you to change price of item"
+    },
+    "selectThisItem": "Select this item",
+    "rule": {
+      "classification": "This classification field is required",
+      "required": "This field is required",
+      "maxLengthOfName": "Maximum length of name is 100"
+    },
+    "selectOrg": "Select an organization",
+    "next": "Next",
+    "sort": {
+      "tooltip": {
+        "descending": "Click to sort descending",
+        "cancel": "Click to cancel sort",
+        "ascending": "Click to sort ascending"
+      }
+    },
+    "yes": "Yes",
+    "showDeleted": "Show deleted"
+  },
+  "filters": {
+    "property": "Property",
+    "add": "Add filter",
+    "editFilter": "Edit filter"
+  },
+  "dashboard": {
+    "filter": {
+      "time": {
+        "today": "Today",
+        "thisWeek": "This Week",
+        "thisMonth": "This Month",
+        "thisYear": "This Year"
+      }
+    },
+    "chain": {
+      "title": "Chain 360",
+      "average": "Average"
+    },
+    "card": {
+      "percent": {
+        "type": {
+          "receipt": "Receipt",
+          "guest": "Guest",
+          "discount": "Discount",
+          "totalAmount": "Total amount"
+        },
+        "period": {
+          "current": {
+            "title": "Current period"
+          },
+          "previous": {
+            "title": "Previous period"
+          }
+        }
+      },
+      "averageRevenuePerRestaurant": "Average revenue per restaurant",
+      "averageGuestPerReceipt": "Average guest per receipt",
+      "totalTaxAmount": "Total tax amount",
+      "averageRevenuePerReceipt": "Average revenue per receipt",
+      "totalAmountWithoutTax": "Total amount without tax"
+    },
+    "viewFull": "View full screen",
+    "print": "Print",
+    "report": {
+      "highestRevenueDishes": "Highest Revenue Dishes",
+      "orderStatus": "Order Status",
+      "revenueByCategories": "Revenue By Categories",
+      "revenueByDays": "Revenue By Days",
+      "revenueByHours": "Revenue by hours",
+      "column": {
+        "shiftDate": "Date",
+        "checkCount": "Checks",
+        "guestCount": "Guests",
+        "amountBeforeTax": "Net Amount",
+        "discountSum": "Discount",
+        "discountName": "Discount Name",
+        "quantity": "Quantity",
+        "serviceCharge": "Service charge",
+        "taxSum": "Tax",
+        "paySum": "Total",
+        "priceSum": "Amount",
+        "restaurantId": "Restaurant Id",
+        "restaurantName": "Restaurants",
+        "hourPeriod": "Hour period",
+        "calPercent": "Per.",
+        "employeeName": "Employees"
+      }
+    },
+    "restaurant": {
+      "title": "Restaurant 360"
+    }
+  },
+  "menuItem": {
+    "openPrices": "Open prices",
+    "group": {
+      "delete": {
+        "success": "Menu group is deleted"
+      },
+      "create": {
+        "success": "Menu group is created"
+      },
+      "update": {
+        "success": "Menu group is updated"
+      },
+      "addNew": "Add new menu group",
+      "detail": "Properties",
+      "allDescription": "List of menu items"
+    },
+    "item": {
+      "menuItems": "Menu items",
+      "create": {
+        "success": "Menu item is created"
+      },
+      "addNewMenuItem": "Add new dish",
+      "type": {
+        "dish": "Dish",
+        "combo": "Combo"
+      },
+      "tooltip": {
+        "name": "Name of menu item",
+        "description": "Description of menu item",
+        "altName": "Alternative name of menu item",
+        "code": "Code of menu item",
+        "addLineMode": "Add line mode of menu item",
+        "priceMode": "Price mode of menu item",
+        "portionName": "Portion name of menu item",
+        "altPortion": "Alt portion of menu item",
+        "portionWeight": "Portion weight of menu item",
+        "qntDecDigits": "Qnt dec digits of menu item"
+      },
+      "update": {
+        "success": "Menu item is updated"
+      },
+      "taxDishType": "Tax group",
+      "modiScheme": "Modifier scheme",
+      "modiWeight": "Modifier weight",
+      "restControl": "Rest control",
+      "confirmQnt": "Confirm qnt",
+      "startSale": "Starting sale",
+      "stopSale": "Ending sale",
+      "addLineMode": "Add line mode",
+      "selectAddLineMode": "Select add line mode",
+      "priceMode": "Price mode",
+      "selectPriceMode": "Select a price mode",
+      "portionName": "Portion name",
+      "altPortion": "Alt portion",
+      "portionWeight": "Portion weight",
+      "qntDecDigits": "Qnt dec digits",
+      "deleteMulti": {
+        "success": "Menu items is deleted"
+      },
+      "delete": {
+        "success": "Menu item is deleted"
+      }
+    },
+    "tooltip": {
+      "comboscheme": "Combo scheme of menu item",
+      "taxDishType": "Tax groups of menu item",
+      "modiScheme": "Modifier scheme of menu item"
+    },
+    "selectComboScheme": "Select a combo scheme",
+    "selectTaxDishType": "Select a tax group",
+    "selectModiScheme": "Select a modifier scheme",
+    "selectClassification": "Select a classification"
+  },
+  "sideBar": {
+    "menu": {
+      "menu": "Menu",
+      "menuItems": "Menu items",
+      "modifiers": "Modifiers",
+      "modifierSchemes": "Modifier schemes",
+      "combos": "Combo components",
+      "comboSchemes": "Combo schemes",
+      "classifications": "Classifications"
+    },
+    "finance": {
+      "finance": "Finance",
+      "discounts": "Discounts",
+      "priceTypes": "Price types",
+      "taxGroups": "Tax groups",
+      "currencies": "Currencies",
+      "HoursReports": "Hourly Sales Report",
+      "tax": "Tax"
+    },
+    "administration": {
+      "administration": "Administration",
+      "regions": "Geographies",
+      "concepts": "Concepts",
+      "restaurants": "Restaurants",
+      "pos": "POS",
+      "employees": "Employees"
+    },
+    "revenue": {
+      "revenue": "Revenue",
+      "salesSummary": "Sales summary",
+      "revenueByDays": "Revenue by days",
+      "revenueByRestaurants": "Revenue by restaurants",
+      "listOfReceipts": "List of receipts",
+      "salesByDishes": "Sales by dishes",
+      "salesByCategories": "Sales by categories",
+      "revenueByEmployees": "Sales By Employees"
+    },
+    "customer": {
+      "customer": "Customer",
+      "customers": "List of customers",
+      "revenueByGroup": "Revenue by group"
+    }
+  },
+  "application": {
+    "dashboard": "Dashboards",
+    "reports": "Reports",
+    "masterData": "Master Data"
+  },
+  "discount": {
+    "item": {
+      "mode": {
+        "down": "Down",
+        "up": "Up"
+      },
+      "countType": {
+        "amount": "Amount",
+        "percent": "Percent",
+        "countType": "Count type"
+      },
+      "discountObjectType": {
+        "discount": "Discount",
+        "discountInsteadPayment": "Payment",
+        "markup": "Markup",
+        "undistributedMarkup": "Undistributed markup"
+      },
+      "minQuantityObjectType": {
+        "forAll": "For All",
+        "forEachNth": "For Each N-th",
+        "forExacessAfterNth": "For exacess after N-th",
+        "onlyOneNth": "Only one N-th"
+      },
+      "create": {
+        "success": "Discount is created"
+      },
+      "addNewDiscount": "Add new discount",
+      "tooltip": {
+        "name": "Name of discount",
+        "altName": "Alternative name of discount",
+        "code": "Code of discount",
+        "extCode": "Ext code of discount",
+        "countType": "Count type of discount",
+        "roundRule": "Round rule of discount",
+        "classification": "Classification of discount",
+        "minOrderRest": "Min order rest of discount"
+      },
+      "update": {
+        "success": "Discount is updated"
+      },
+      "extCode": "Ext code",
+      "maxAmount": "Max amount",
+      "maxPercent": "Max percent",
+      "minQuantity": "Min Quantity",
+      "roundRule": {
+        "roundRule": "Round rule"
+      },
+      "manualEnterMode": "Manual enter mode",
+      "combineWithAnyDisc": "Combine with any disc",
+      "actCharges": "Act charges",
+      "zeroAct": "Zero act",
+      "printZeroValue": "Print zero value",
+      "onOrder": "On order",
+      "onDish": "On dish",
+      "onSeat": "On seat",
+      "allowMultiple": "Allow multiple",
+      "needMan": "Need man",
+      "prohibitHand": "Prohibit hand",
+      "startSale": "Start sale",
+      "stopSale": "Stop sale",
+      "classification": "Classification",
+      "selectClassification": "Select a classification",
+      "minOrderRest": "Min order rest",
+      "visualTypeBColor": "Background color",
+      "visualTypeTextColor": "Text color",
+      "deleteMulti": {
+        "success": "Discounts are deleted"
+      },
+      "delete": {
+        "success": "Discount is deleted"
+      }
+    },
+    "detail": {
+      "delete": {
+        "success": "Discount detail is deleted"
+      },
+      "percent": "Percent",
+      "amount": "Amount",
+      "create": {
+        "success": "Discount detail is created"
+      },
+      "update": {
+        "success": "Discount detail is updated"
+      },
+      "addNew": "Add new detail",
+      "tooltip": {
+        "amount": "Amount of discount detail",
+        "percent": "Percent of discount detail",
+        "bonusPercentVal": "Bonus percent value of discount detail",
+        "bonusType": "Bonus type of discount detail",
+        "region": "Geography of discount detail",
+        "concept": "Concept of discount detail",
+        "restaurant": "Restaurant of discount detail",
+        "guestType": "Guest type of discount detail",
+        "category": "Category of discount detail"
+      },
+      "bonusPercentVal": "Bonus percent",
+      "bonusType": "Bonus type",
+      "selectBonusType": "Select bonus type",
+      "selectRegion": "Select geography",
+      "selectConcept": "Select concept",
+      "selectRestaurant": "Select restaurant",
+      "guestType": "Guest type",
+      "selectGuestType": "Select guest type",
+      "category": "Category",
+      "selectCategory": "Select category",
+      "fromAmount": "From amount",
+      "fromGuest": "From guest",
+      "toGuest": "To guest"
+    },
+    "type": {
+      "allDescription": "List of discounts",
+      "create": {
+        "success": "Discount type is created"
+      },
+      "update": {
+        "success": "Discount type is updated"
+      },
+      "addNew": "Add new discount type",
+      "detail": "Properties",
+      "tooltip": {
+        "name": "Name of discount type",
+        "code": "Code of discount type",
+        "altName": "Alternative name of discount type"
+      },
+      "delete": {
+        "success": "Discount type is deleted"
+      },
+      "discountTypes": "Discount types"
+    }
+  },
+  "cash": {
+    "item": {
+      "create": {
+        "success": "Cash is created"
+      },
+      "update": {
+        "success": "Cash is updated"
+      },
+      "detail": "Properties",
+      "addNew": "Add new cash",
+      "tooltip": {
+        "name": "Name of cash",
+        "code": "Code of cash",
+        "altName": "Alternative name of cash"
+      },
+      "deleteMulti": {
+        "success": "Cashes are deleted"
+      },
+      "delete": {
+        "success": "Cash is deleted"
+      },
+      "cashes": "Cashes"
+    },
+    "group": {
+      "create": {
+        "success": "Cash group is created"
+      },
+      "update": {
+        "success": "Cash group is updated"
+      },
+      "addNew": "Add new cash group",
+      "detail": "Properties",
+      "tooltip": {
+        "name": "Name of cash group",
+        "code": "Code of cash group",
+        "altName": "Alternative name of cash group"
+      },
+      "allDescription": "List of cash groups",
+      "delete": {
+        "success": "Cash group is deleted"
+      }
+    }
+  },
+  "concept": {
+    "detail": "Properties",
+    "create": {
+      "success": "Concept is created"
+    },
+    "update": {
+      "success": "Concept is updated"
+    },
+    "tooltip": {
+      "name": "Name of concept",
+      "code": "Code of concept",
+      "altName": "Alternative name of concept"
+    },
+    "deleteMulti": {
+      "success": "Concepts are deleted"
+    },
+    "delete": {
+      "success": "Concept is deleted"
+    },
+    "concepts": "Concepts",
+    "concept": "Concept",
+    "selectConcept": "Select a concept"
+  },
+  "employee": {
+    "item": {
+      "create": {
+        "success": "Employee is created"
+      },
+      "update": {
+        "success": "Employee is updated"
+      },
+      "detail": "Properties",
+      "addNew": "Add new employee",
+      "tooltip": {
+        "name": "Name of employee",
+        "code": "Code of employee",
+        "altName": "Alternative name of employee"
+      },
+      "deleteMulti": {
+        "success": "Employees are deleted"
+      },
+      "delete": {
+        "success": "Employee is deleted"
+      },
+      "employees": "Employees"
+    },
+    "group": {
+      "allDescription": "List of group role",
+      "create": {
+        "success": "Group role is created"
+      },
+      "update": {
+        "success": "Group role is updated"
+      },
+      "addNew": "Add new group role",
+      "detail": "Properties",
+      "tooltip": {
+        "name": "Name of group role",
+        "code": "Code of group role",
+        "altName": "Alternative name of group role"
+      },
+      "delete": {
+        "success": "Group role is deleted"
+      }
+    }
+  },
+  "region": {
+    "deleteMulti": {
+      "success": "Geographies are deleted"
+    },
+    "delete": {
+      "success": "Geography is deleted"
+    },
+    "regions": "Geographies",
+    "detail": "Properties",
+    "create": {
+      "success": "Geography is created"
+    },
+    "update": {
+      "success": "Geography is updated"
+    },
+    "tooltip": {
+      "name": "Name of geography",
+      "code": "Code of geography",
+      "altName": "Alternative name of geography"
+    },
+    "region": "Geography",
+    "selectRegion": "Select a geography"
+  },
+  "restaurant": {
+    "deleteMulti": {
+      "success": "Restaurants are deleted"
+    },
+    "delete": {
+      "success": "Restaurant is deleted"
+    },
+    "restaurants": "Restaurants",
+    "detail": "Properties",
+    "create": {
+      "success": "Restaurant is created"
+    },
+    "update": {
+      "success": "Restaurant is updated"
+    },
+    "tooltip": {
+      "name": "Name of restaurant",
+      "code": "Code of restaurant",
+      "altName": "Alternative name of restaurant",
+      "region": "Region of restaurant",
+      "concept": "Concept of restaurant"
+    },
+    "restaurant": "Restaurant",
+    "selectRestaurant": "Select a restaurant"
+  },
+  "currency": {
+    "item": {
+      "create": {
+        "success": "Currency is created"
+      },
+      "update": {
+        "success": "Currency is updated"
+      },
+      "detail": "Properties",
+      "addNew": "Add new currency",
+      "tooltip": {
+        "name": "Name of currency",
+        "code": "Code of currency",
+        "altName": "Alternative name of currency"
+      },
+      "deleteMulti": {
+        "success": "Currencies are deleted"
+      },
+      "delete": {
+        "success": "Currency is deleted"
+      },
+      "currencies": "Currencies"
+    },
+    "type": {
+      "allDescription": "List of currencies",
+      "create": {
+        "success": "Currency type is created"
+      },
+      "update": {
+        "success": "Currency type is updated"
+      },
+      "addNew": "Add new currency type",
+      "detail": "Properties",
+      "tooltip": {
+        "name": "Name of currency type",
+        "code": "Code of currency type",
+        "altName": "Alternative name of currency type"
+      },
+      "delete": {
+        "success": "Currency type is deleted"
+      }
+    }
+  },
+  "priceType": {
+    "deleteMulti": {
+      "success": "Price types are deleted"
+    },
+    "delete": {
+      "success": "Price type is deleted"
+    },
+    "priceTypes": "Price types",
+    "detail": "Properties",
+    "create": {
+      "success": "Price type is created"
+    },
+    "update": {
+      "success": "Price type is updated"
+    },
+    "tooltip": {
+      "name": "Name of price type",
+      "code": "Code of price type",
+      "altName": "Alternative name of price type",
+      "description": "Description of price type"
+    }
+  },
+  "taxGroup": {
+    "deleteMulti": {
+      "success": "Tax groups are deleted"
+    },
+    "delete": {
+      "success": "Tax group is delete"
+    },
+    "taxGroups": "Tax groups",
+    "detail": "Properties",
+    "create": {
+      "success": "Tax group is created"
+    },
+    "update": {
+      "success": "Tax group is updated"
+    },
+    "tooltip": {
+      "name": "Name of tax group",
+      "code": "Code of tax group",
+      "altName": "Alternative name of tax group",
+      "description": "Description of tax group"
+    }
+  },
+  "classification": {
+    "item": {
+      "create": {
+        "success": "Classification is created"
+      },
+      "update": {
+        "success": "Classification is updated"
+      },
+      "detail": "Properties",
+      "addNew": "Add new classification",
+      "tooltip": {
+        "name": "Name of classification",
+        "code": "Code of classification",
+        "altName": "Alternative name of classification",
+        "description": "Description of classification"
+      },
+      "barCodes": "Bar codes",
+      "massAltName": "Mass alt name",
+      "massName": "Mass name",
+      "quantityPrecision": "Quantity precision",
+      "addLineMode": "Add line mode",
+      "selectAddLineMode": "Select an add line mode",
+      "priceMode": "Price mode",
+      "useConfirmQuality": "Use confirm quality",
+      "dontPack": "Don't pack",
+      "useStartSale": "Start sale",
+      "useStopSale": "Stop sale",
+      "minimalRest": "Mininal rest",
+      "deleteMulti": {
+        "success": "Classifications are deleted"
+      },
+      "delete": {
+        "success": "Classification is deleted"
+      },
+      "classificationGroups": "Classifications"
+    },
+    "group": {
+      "create": {
+        "success": "Classification group is created"
+      },
+      "update": {
+        "success": "Classification group is updated"
+      },
+      "addNew": "Add new classification group",
+      "detail": "Properties",
+      "tooltip": {
+        "name": "Name of classification group",
+        "code": "Code of classification group",
+        "altName": "Alternative name of classification group"
+      },
+      "allDescription": "List of classifications",
+      "delete": {
+        "success": "Classification group is deleted"
+      }
+    }
+  },
+  "combo": {
+    "item": {
+      "create": {
+        "success": "Combo is created"
+      },
+      "addNew": "Add new combo components",
+      "dish": "Dish",
+      "tooltip": {
+        "dish": "Dish of combo",
+        "name": "Name of combo",
+        "code": "Code of combo",
+        "altName": "Alternative name of combo"
+      },
+      "update": {
+        "success": "Combo is updated"
+      },
+      "startSale": "Start sale",
+      "stopSale": "Stop sale",
+      "useMaxInOneDish": "Max in one dish",
+      "weight": "Weight",
+      "selectADish": "Select a dish",
+      "deleteMulti": {
+        "success": "Combos are deleted"
+      },
+      "delete": {
+        "success": "Combo is deleted"
+      },
+      "combos": "Combo components"
+    },
+    "group": {
+      "create": {
+        "success": "Combo group is created"
+      },
+      "update": {
+        "success": "Combo group is updated"
+      },
+      "addNew": "Add new combo group",
+      "detail": "Combo group detail",
+      "tooltip": {
+        "name": "Name of combo group",
+        "code": "Code of combo group",
+        "altName": "Alternative name of combo group"
+      },
+      "allDescription": "List of combo components",
+      "delete": {
+        "success": "Combo group is deleted"
+      }
+    }
+  },
+  "modifier": {
+    "detail": {
+      "openPrices": "Open prices"
+    },
+    "group": {
+      "tooltip": {
+        "name": "Name of modifier group",
+        "code": "Code of modifier group",
+        "altName": "Alternative name of modifier group",
+        "description": "Description of modifier group"
+      },
+      "delete": {
+        "success": "Modifier group is deleted"
+      },
+      "allDescription": "List of modifiers",
+      "create": {
+        "success": "Modifier group is created"
+      },
+      "update": {
+        "success": "Modifier group is updated"
+      },
+      "addNew": "Add new modifier group",
+      "detail": "Properties"
+    },
+    "item": {
+      "modifiers": "Modifiers",
+      "create": {
+        "success": "Modifier is created"
+      },
+      "addNew": "Add new modifier",
+      "tooltip": {
+        "name": "Name of modifier",
+        "code": "Code of modifier",
+        "altName": "Alternative name of modifier",
+        "inputName": "Allow input name with keyboard"
+      },
+      "update": {
+        "success": "Modifier is updated"
+      },
+      "addToName": "Add to name",
+      "replaceName": "Replace name",
+      "saveInReceipt": "Save in receipt",
+      "inputName": "Input name",
+      "useStartSale": "Start sale",
+      "useStopSale": "Stop sale",
+      "useMaxInOneDish": "Max in one dish",
+      "weight": "Weight",
+      "deleteMulti": {
+        "success": "Modifiers are deleted"
+      },
+      "delete": {
+        "success": "Modifier is deleted"
+      }
+    }
+  },
+  "comboScheme": {
+    "detail": {
+      "delete": {
+        "success": "Combo scheme detail is deleted"
+      },
+      "upLimit": "Up limit",
+      "downLimit": "Down limit",
+      "useUpLimit": "Use up limit",
+      "useDownLimit": "Use down limit",
+      "update": {
+        "success": "Combo scheme detail is updated"
+      },
+      "create": {
+        "success": "Combo scheme detail is created"
+      },
+      "addNew": "Add combo group",
+      "comboGroup": "Combo group",
+      "tooltip": {
+        "comboGroup": "Combo group of combo scheme detail"
+      },
+      "selectComboGroup": "Select a combo group",
+      "title": "Properties",
+      "comboSchemeDetails": "Combo groups"
+    },
+    "upLimit": "Up limit",
+    "downLimit": "Down limit",
+    "create": {
+      "success": "Combo scheme is created"
+    },
+    "update": {
+      "success": "Combo scheme is updated"
+    },
+    "addNew": "Add new combo scheme",
+    "tooltip": {
+      "name": "Name of combo scheme",
+      "code": "Code of combo scheme",
+      "altName": "Alternative name of combo scheme"
+    },
+    "deleteMulti": {
+      "success": "Combo schemes are deleted"
+    },
+    "delete": {
+      "success": "Combo scheme is deleted"
+    },
+    "group": {
+      "allDescription": "List of combo schemes"
+    },
+    "comboSchemes": "Combo schemes"
+  },
+  "modiScheme": {
+    "tooltip": {
+      "name": "Name of modifier scheme",
+      "code": "Code of modifier scheme",
+      "altName": "Alternative name of modifier scheme"
+    },
+    "delete": {
+      "success": "Modifier scheme is deleted"
+    },
+    "modischemes": "Modifier schemes",
+    "detail": {
+      "update": {
+        "success": "Modifier scheme detail is updated"
+      },
+      "create": {
+        "success": "Modifier scheme detail is created"
+      },
+      "addNew": "Add modifier group",
+      "modiGroup": "Modifier group",
+      "tooltip": {
+        "modiGroup": "Modifier group of modifier scheme detail"
+      },
+      "selectModiGroup": "Select a modifier group",
+      "delete": {
+        "success": "Modifier scheme detail is deleted"
+      },
+      "upLimit": "Up limit",
+      "downLimit": "Down limit",
+      "useUpLimit": "Use up limit",
+      "useDownLimit": "Use down limit",
+      "modiSchemeDetails": "Modifier groups"
+    },
+    "upLimit": "Up limit",
+    "downLimit": "Down limit",
+    "create": {
+      "success": "Modifier scheme is created"
+    },
+    "update": {
+      "success": "Modifier scheme is updated"
+    },
+    "addNew": "Add new modifier scheme",
+    "group": {
+      "title": "Properties",
+      "allDescription": "List of modifier schemes"
+    },
+    "deleteMulti": {
+      "success": "Modifier schemes are deleted"
+    }
+  },
+  "selectOrg": {
+    "selectAnOrg": "Select an organization"
+  }
+}

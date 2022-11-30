@@ -1,0 +1,945 @@
+{
+  "auth": {
+    "error": {
+      "expiredToken": "Hết thời gian truy cập. Vui lòng đăng nhập lại"
+    },
+    "signOut": {
+      "confirm": "Bạn có chắc chắn muốn đăng xuất?",
+      "signOut": "Thoát"
+    },
+    "accountManagement": "Quản lý tài khoản",
+    "login": {
+      "login": "Đăng nhập",
+      "networkError": "Lỗi Mạng",
+      "noUser": "Không tìm thấy người dùng",
+      "wrongPassword": "Sai mật khẩu",
+      "required": "",
+      "placeholder": ""
+    },
+    "signIn": "Đăng nhập",
+    "password": {
+      "required": "",
+      "placeholder": ""
+    },
+    "keepMeSignedIn": ""
+  },
+  "common": {
+    "chooseColumns": "Hiển thị cột",
+    "ok": "Đồng ý",
+    "cancel": "Hủy",
+    "columns": "Cột",
+    "apply": "",
+    "field": {
+      "placeholder": {
+        "dateRange": {
+          "from": "",
+          "to": ""
+        },
+        "name": ""
+      },
+      "name": "Tên",
+      "code": "Mã",
+      "altName": "Tên thay thế",
+      "id": "ID",
+      "status": "Trạng thái",
+      "description": "Mô tả",
+      "default": "Mặc định",
+      "dateRange": "",
+      "date": ""
+    },
+    "confirm": {
+      "unsave": "Thay đổi sẽ không được lưu. Bạn có muốn tiếp tục?",
+      "delete": "Bạn có chắc chắn muốn xóa?"
+    },
+    "noData": "Chưa có dữ liệu",
+    "selectDate": "",
+    "save": "Lưu",
+    "search": "Tìm kiếm",
+    "delete": "Xoá",
+    "selected": "Chọn",
+    "total": "Tổng",
+    "items": "",
+    "applications": "Ứng dụng",
+    "version": "Phiên bản",
+    "status": {
+      "deleted": "Đã xóa",
+      "draft": "Nháp",
+      "inactive": "Chưa kích hoạt",
+      "active": "Kích hoạt",
+      "preset": "Thiết lập sẵn"
+    },
+    "addLineMode": {
+      "join": "",
+      "separateLine": "",
+      "separateLineForeachPortion": "",
+      "perPiece": "",
+      "perStandardDose": "",
+      "perPortionUnitOfWeight": "",
+      "perStandardPortion": ""
+    },
+    "rightLevel": {
+      "test": ""
+    },
+    "add": "Tạo",
+    "all": "",
+    "edit": "Chỉnh sửa",
+    "tab": {
+      "basic": "",
+      "restrictions": "",
+      "visualType": "",
+      "details": "",
+      "history": "",
+      "restriction": "",
+      "prices": "",
+      "portion": "",
+      "portions": "",
+      "classifications": "",
+      "apps": "",
+      "statistics": "",
+      "review": "",
+      "htmlPreview": ""
+    },
+    "price": {
+      "openPriceDescription": ""
+    },
+    "selectThisItem": "",
+    "rule": {
+      "classification": "",
+      "required": "",
+      "maxLengthOfName": ""
+    },
+    "selectOrg": "Chọn doanh nghiệp",
+    "next": "Tiếp tục",
+    "sort": {
+      "tooltip": {
+        "descending": "",
+        "cancel": "",
+        "ascending": ""
+      }
+    },
+    "yes": "Đồng ý",
+    "showDeleted": ""
+  },
+  "filters": {
+    "property": "",
+    "add": "",
+    "editFilter": ""
+  },
+  "dashboard": {
+    "filter": {
+      "time": {
+        "today": "",
+        "thisWeek": "",
+        "thisMonth": "",
+        "thisYear": ""
+      }
+    },
+    "chain": {
+      "title": "",
+      "average": ""
+    },
+    "card": {
+      "percent": {
+        "type": {
+          "receipt": "",
+          "guest": "",
+          "discount": "",
+          "totalAmount": ""
+        },
+        "period": {
+          "current": {
+            "title": ""
+          },
+          "previous": {
+            "title": ""
+          }
+        }
+      },
+      "averageRevenuePerRestaurant": "",
+      "averageGuestPerReceipt": "",
+      "totalTaxAmount": "",
+      "averageRevenuePerReceipt": "",
+      "totalAmountWithoutTax": ""
+    },
+    "viewFull": "",
+    "print": "",
+    "report": {
+      "highestRevenueDishes": "",
+      "orderStatus": "",
+      "revenueByCategories": "",
+      "revenueByDays": "",
+      "revenueByHours": "",
+      "column": {
+        "shiftDate": "",
+        "checkCount": "",
+        "guestCount": "",
+        "amountBeforeTax": "",
+        "discountSum": "",
+        "serviceCharge": "",
+        "taxSum": "",
+        "paySum": "",
+        "priceSum": "",
+        "restaurantId": "",
+        "restaurantName": ""
+      }
+    },
+    "restaurant": {
+      "title": ""
+    }
+  },
+  "menuItem": {
+    "openPrices": "",
+    "group": {
+      "delete": {
+        "success": ""
+      },
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "Các thuộc tính",
+      "allDescription": ""
+    },
+    "item": {
+      "menuItems": "Món ăn",
+      "create": {
+        "success": ""
+      },
+      "addNewMenuItem": "",
+      "type": {
+        "dish": "",
+        "combo": ""
+      },
+      "tooltip": {
+        "name": "Tên của món ăn",
+        "description": "Mô tả của món ăn",
+        "altName": "",
+        "code": "",
+        "addLineMode": "",
+        "priceMode": "",
+        "portionName": "",
+        "altPortion": "",
+        "portionWeight": "",
+        "qntDecDigits": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "taxDishType": "",
+      "modiScheme": "",
+      "modiWeight": "",
+      "restControl": "",
+      "confirmQnt": "",
+      "startSale": "",
+      "stopSale": "",
+      "addLineMode": "",
+      "selectAddLineMode": "",
+      "priceMode": "",
+      "selectPriceMode": "",
+      "portionName": "",
+      "altPortion": "",
+      "portionWeight": "",
+      "qntDecDigits": "",
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      }
+    },
+    "tooltip": {
+      "comboscheme": "",
+      "taxDishType": "",
+      "modiScheme": ""
+    },
+    "selectComboScheme": "",
+    "selectTaxDishType": "",
+    "selectModiScheme": "",
+    "selectClassification": ""
+  },
+  "sideBar": {
+    "menu": {
+      "menu": "Thực đơn",
+      "menuItems": "Món ăn",
+      "modifiers": "Các tùy chọn",
+      "modifierSchemes": "Sơ đồ tùy chọn",
+      "combos": "",
+      "comboSchemes": "Sơ đồ combo",
+      "classifications": "Phân lớp"
+    },
+    "finance": {
+      "finance": "Tài chính",
+      "discounts": "Giảm giá",
+      "priceTypes": "Bảng giá",
+      "taxGroups": "Nhóm thuế",
+      "currencies": "Tiền tệ",
+      "tax": ""
+    },
+    "administration": {
+      "administration": "Quản trị",
+      "regions": "Khu vực",
+      "concepts": "Mô hình",
+      "restaurants": "Nhà hàng",
+      "pos": "",
+      "employees": "Nhân viên"
+    },
+    "revenue": {
+      "revenue": "",
+      "salesSummary": "",
+      "revenueByDays": "",
+      "revenueByRestaurants": "",
+      "listOfReceipts": "",
+      "salesByDishes": "",
+      "salesByCategories": ""
+    },
+    "customer": {
+      "customer": "",
+      "customers": "",
+      "revenueByGroup": ""
+    }
+  },
+  "application": {
+    "dashboard": "",
+    "reports": "",
+    "masterData": ""
+  },
+  "discount": {
+    "item": {
+      "mode": {
+        "down": "",
+        "up": ""
+      },
+      "countType": {
+        "amount": "",
+        "percent": "",
+        "countType": ""
+      },
+      "discountObjectType": {
+        "discount": "",
+        "discountInsteadPayment": "",
+        "markup": "",
+        "undistributedMarkup": ""
+      },
+      "minQuantityObjectType": {
+        "forAll": "",
+        "forEachNth": "",
+        "forExacessAfterNth": "",
+        "onlyOneNth": ""
+      },
+      "create": {
+        "success": ""
+      },
+      "addNewDiscount": "",
+      "tooltip": {
+        "name": "",
+        "altName": "",
+        "code": "",
+        "extCode": "",
+        "countType": "",
+        "roundRule": "",
+        "classification": "",
+        "minOrderRest": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "extCode": "",
+      "maxAmount": "",
+      "maxPercent": "",
+      "minQuantity": "",
+      "roundRule": {
+        "roundRule": ""
+      },
+      "manualEnterMode": "",
+      "combineWithAnyDisc": "",
+      "actCharges": "",
+      "zeroAct": "",
+      "printZeroValue": "",
+      "onOrder": "",
+      "onDish": "",
+      "onSeat": "",
+      "allowMultiple": "",
+      "needMan": "",
+      "prohibitHand": "",
+      "startSale": "",
+      "stopSale": "",
+      "classification": "",
+      "selectClassification": "",
+      "minOrderRest": "",
+      "visualTypeBColor": "",
+      "visualTypeTextColor": "",
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      }
+    },
+    "detail": {
+      "delete": {
+        "success": ""
+      },
+      "percent": "",
+      "amount": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "tooltip": {
+        "amount": "",
+        "percent": "",
+        "bonusPercentVal": "",
+        "bonusType": "",
+        "region": "",
+        "concept": "",
+        "restaurant": "",
+        "guestType": "",
+        "category": ""
+      },
+      "bonusPercentVal": "",
+      "bonusType": "",
+      "selectBonusType": "",
+      "selectRegion": "",
+      "selectConcept": "",
+      "selectRestaurant": "",
+      "guestType": "",
+      "selectGuestType": "",
+      "category": "",
+      "selectCategory": "",
+      "fromAmount": "",
+      "fromGuest": "",
+      "toGuest": ""
+    },
+    "type": {
+      "allDescription": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "Các thuộc tính",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "discountTypes": "Loại giảm giá"
+    }
+  },
+  "cash": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "cashes": ""
+    },
+    "group": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "allDescription": "",
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "concept": {
+    "detail": "Các thuộc tính",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "concepts": "",
+    "concept": "",
+    "selectConcept": ""
+  },
+  "employee": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "employees": ""
+    },
+    "group": {
+      "allDescription": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "region": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "regions": "Khu vực",
+    "detail": "Các thuộc tính",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "region": "Khu vực",
+    "selectRegion": "Chọn khu vực"
+  },
+  "restaurant": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "restaurants": "Nhà hàng",
+    "detail": "Thông tin nhà hàng",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": "",
+      "region": "",
+      "concept": ""
+    },
+    "restaurant": "",
+    "selectRestaurant": ""
+  },
+  "currency": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "currencies": ""
+    },
+    "type": {
+      "allDescription": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "priceType": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "priceTypes": "Bảng giá",
+    "detail": "Các thuộc tính",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": "",
+      "description": "Mô tả của loại giá"
+    }
+  },
+  "taxGroup": {
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "taxGroups": "",
+    "detail": "",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": "",
+      "description": "Mô tả nhóm thuế"
+    }
+  },
+  "classification": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "detail": "",
+      "addNew": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": "",
+        "description": "Mô tả của phân loại"
+      },
+      "barCodes": "",
+      "massAltName": "",
+      "massName": "",
+      "quantityPrecision": "",
+      "addLineMode": "",
+      "selectAddLineMode": "",
+      "priceMode": "",
+      "useConfirmQuality": "",
+      "dontPack": "",
+      "useStartSale": "",
+      "useStopSale": "",
+      "minimalRest": "",
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "classificationGroups": ""
+    },
+    "group": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "allDescription": "",
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "combo": {
+    "item": {
+      "create": {
+        "success": ""
+      },
+      "addNew": "",
+      "dish": "",
+      "tooltip": {
+        "dish": "",
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "startSale": "",
+      "stopSale": "",
+      "useMaxInOneDish": "",
+      "weight": "",
+      "selectADish": "",
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      },
+      "combos": ""
+    },
+    "group": {
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "",
+      "detail": "",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": ""
+      },
+      "allDescription": "",
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "modifier": {
+    "detail": {
+      "openPrices": ""
+    },
+    "group": {
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": "",
+        "description": "Mô tả của modifiers"
+      },
+      "delete": {
+        "success": ""
+      },
+      "allDescription": "",
+      "create": {
+        "success": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addNew": "Thêm nhóm tùy chọn",
+      "detail": "Các thuộc tính"
+    },
+    "item": {
+      "modifiers": "Các tùy chọn",
+      "create": {
+        "success": ""
+      },
+      "addNew": "Thêm tùy chọn",
+      "tooltip": {
+        "name": "",
+        "code": "",
+        "altName": "",
+        "inputName": ""
+      },
+      "update": {
+        "success": ""
+      },
+      "addToName": "",
+      "replaceName": "",
+      "saveInReceipt": "",
+      "inputName": "",
+      "useStartSale": "",
+      "useStopSale": "",
+      "useMaxInOneDish": "",
+      "weight": "",
+      "deleteMulti": {
+        "success": ""
+      },
+      "delete": {
+        "success": ""
+      }
+    }
+  },
+  "comboScheme": {
+    "detail": {
+      "delete": {
+        "success": ""
+      },
+      "upLimit": "",
+      "downLimit": "",
+      "useUpLimit": "",
+      "useDownLimit": "",
+      "update": {
+        "success": ""
+      },
+      "create": {
+        "success": ""
+      },
+      "addNew": "",
+      "comboGroup": "",
+      "tooltip": {
+        "comboGroup": ""
+      },
+      "selectComboGroup": "",
+      "title": "",
+      "comboSchemeDetails": ""
+    },
+    "upLimit": "",
+    "downLimit": "",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "addNew": "",
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "group": {
+      "allDescription": ""
+    },
+    "comboSchemes": ""
+  },
+  "modiScheme": {
+    "tooltip": {
+      "name": "",
+      "code": "",
+      "altName": ""
+    },
+    "delete": {
+      "success": ""
+    },
+    "modischemes": "",
+    "detail": {
+      "update": {
+        "success": ""
+      },
+      "create": {
+        "success": ""
+      },
+      "addNew": "",
+      "modiGroup": "",
+      "tooltip": {
+        "modiGroup": ""
+      },
+      "selectModiGroup": "",
+      "delete": {
+        "success": ""
+      },
+      "upLimit": "",
+      "downLimit": "",
+      "useUpLimit": "",
+      "useDownLimit": "",
+      "modiSchemeDetails": ""
+    },
+    "upLimit": "",
+    "downLimit": "",
+    "create": {
+      "success": ""
+    },
+    "update": {
+      "success": ""
+    },
+    "addNew": "",
+    "group": {
+      "title": "",
+      "allDescription": ""
+    },
+    "deleteMulti": {
+      "success": ""
+    }
+  },
+  "selectOrg": {
+    "selectAnOrg": "Chọn doanh nghiệp"
+  }
+}
